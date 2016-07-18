@@ -1,0 +1,2750 @@
+
+PMC - PMC4903105
+PMID- 27206678
+IS  - 0167-6806 (Print)
+IS  - 1573-7217 (Electronic)
+VI  - 157
+DP  - 2016
+TI  - Utilization and impact of 21-gene recurrence score assay for breast cancer in
+      clinical practice across the United States: lessons learned from the 2010 to 2012
+      National Cancer Data Base analysis.
+PG  - 427-35
+AB  - The aim of our study is to investigate patient selection for the 21-gene
+      recurrence score assay (RS) for breast cancer (BC) and the RS impact on
+      chemotherapy administration (Chemo) in clinical practice across the United States
+      through the retrospective observational study of National Cancer Data Base (NCDB)
+      patients from 2010 to 2012. NCDB captures ~70 % of all newly diagnosed
+      malignancies in the USA annually. The 2010–2012 period depicts data from the
+      beginning of the NCDB that required recording of molecular assays and their data 
+      release in April 2015. De-identified demographic and clinical variables of
+      patients that had RS results were analyzed. 513,080 patients had BC; 406,525 were
+      estrogen receptor-positive (ER+). 74,334/91,651 patients with RS recorded as a
+      numerical value (0–100) were analyzed (18.2 % of ER+). Patients’ ages ranged from
+      18 to 90 (mean = 58.8, median = 59); 99.1 % were females. Patients of Caucasian
+      race, from regions with <7 % having no high school education, and >$63,000 median
+      household income were more likely to be tested than patients of other races,
+      education, or income (p < 0.001). 58.1 % of tests were performed in ER+/lymph
+      node-negative/>1 cm tumors; 16.4 % included ≥N1 disease; 9.9 % included T1a, T3, 
+      Stage III and IV, or HER2-positive cancers. Low-risk RS result had 92.2 %
+      negative predictive value for no Chemo. Intermediate-risk RS result had 40.1 %
+      positive predictive value (PPV); high-risk RS had 81.2 % PPV for Chemo. RS is
+      obtained in ~1/5 of ER + BC patients across the USA. Further studies
+      investigating influence and implementation of the newest evidence-based
+      management guidelines regarding patients’ selection for RS test and chemotherapy 
+      administration upon obtaining of test results are warranted.
+FAU - Orucevic, Amila
+AU  - Orucevic A
+AD  - Department of Pathology, University of Tennessee Medical Center at Knoxville,
+      1924 Alcoa Hwy, Knoxville, TN 37920 USA
+FAU - Heidel, Robert E.
+AU  - Heidel RE
+AD  - Department of Surgery, University of Tennessee Medical Center at Knoxville, 1924 
+      Alcoa Hwy, Knoxville, TN 37920 USA
+FAU - Bell, John L.
+AU  - Bell JL
+AD  - Department of Surgery, University of Tennessee Medical Center at Knoxville, 1924 
+      Alcoa Hwy, Knoxville, TN 37920 USA
+LA  - eng
+PT  - Journal Article
+DEP - 20160520
+PHST- 2016/03/28 [received]
+PHST- 2016/05/09 [accepted]
+TA  - Breast Cancer Res Treat
+JT  - Breast Cancer Research and Treatment
+AID - 3833 [pii]
+AID - 10.1007/s10549-016-3833-9 [doi]
+SO  - Breast Cancer Res Treat. 2016;157:427-35. Epub 2016 May 20
+      doi:10.1007/s10549-016-3833-9.
+
+PMC - PMC4679783
+PMID- 26610383
+IS  - 0741-238X (Print)
+IS  - 1865-8652 (Electronic)
+VI  - 32
+DP  - 2015
+TI  - A Prospective Comparison of the 21-Gene Recurrence Score and the PAM50-Based
+      Prosigna in Estrogen Receptor-Positive Early-Stage Breast Cancer.
+PG  - 1237-47
+AB  - Introduction: The 21-gene Recurrence Score® assay (Oncotype DX®, Genomic Health, 
+      Inc.) is a validated predictor of recurrence risk/chemotherapy benefit in
+      patients with estrogen receptor-positive (ER+) early-stage breast cancer treated 
+      with endocrine therapy. The Prosigna® assay (NanoString Technologies Inc.) is a
+      validated prognosticator in postmenopausal patients with low-risk ER+ early-stage
+      breast cancer treated with endocrine therapy. The assays were
+      analytically/clinically developed and validated differently. This study focused
+      on comparing recurrence risk estimates as determined by these assays and is the
+      first blinded comparison of these assays on matched patient samples. Methods:
+      Sequential breast cancer specimens from postmenopausal, node-negative, ER+
+      patients treated at the Marin General Hospital were analyzed: first by the
+      21-gene assay then by the Prosigna assay in an independent lab blinded to the
+      Recurrence Score results. Results: The final analysis included 52 patients.
+      Correlation between the Recurrence Score and the Prosigna assay results was poor 
+      (r = 0.08). Agreement between risk classifications based on these assays was 54%;
+      4/7 of patients classified as high risk by the Prosigna assay had low Recurrence 
+      Score results. Two tumors with high Recurrence Score results had low ER
+      expression (close to positivity threshold); both of which had a low/intermediate 
+      Prosigna assay result. The Prosigna assay classified 73.1% and 23.1% of samples
+      as luminal A and luminal B, respectively. A range of Recurrence Score results was
+      observed within the subtypes; 83% of luminal B samples had a low Recurrence Score
+      result. Conclusion: Consistent with prior comparisons between the 21-gene and
+      other genomic assays, our study demonstrated substantial differences in the way
+      patients are risk stratified, suggesting that the different assays are not
+      interchangeable. Funding: Genomic Health, Inc. Electronic supplementary material:
+      The online version of this article (doi:10.1007/s12325-015-0269-2) contains
+      supplementary material, which is available to authorized users.
+FAU - Alvarado, Michael D.
+AU  - Alvarado MD
+AD  - University of California, San Francisco, CA USA
+FAU - Prasad, Che
+AU  - Prasad C
+AD  - Marin Medical Laboratories, Novato, CA USA
+FAU - Rothney, Megan
+AU  - Rothney M
+AD  - Genomic Health, Inc., Redwood City, CA USA
+FAU - Cherbavaz, Diana B.
+AU  - Cherbavaz DB
+AD  - Genomic Health, Inc., Redwood City, CA USA
+FAU - Sing, Amy P.
+AU  - Sing AP
+AD  - Genomic Health, Inc., Redwood City, CA USA
+FAU - Baehner, Frederick L.
+AU  - Baehner FL
+AD  - University of California, San Francisco, CA USA
+FAU - Svedman, Christer
+AU  - Svedman C
+AD  - Genomic Health, Inc., Redwood City, CA USA
+FAU - Markopoulos, Christos J.
+AU  - Markopoulos CJ
+AD  - Athens University Medical School, Athens, Greece
+LA  - eng
+PT  - Journal Article
+DEP - 20151126
+PHST- 2015/10/12 [received]
+TA  - Adv Ther
+JT  - Advances in Therapy
+AID - 269 [pii]
+AID - 10.1007/s12325-015-0269-2 [doi]
+SO  - Adv Ther. 2015;32:1237-47. Epub 2015 Nov 26 doi:10.1007/s12325-015-0269-2.
+
+PMC - PMC4589954
+PMID- 26429296
+IS  - 1465-5411 (Print)
+IS  - 1465-542X (Electronic)
+VI  - 17
+DP  - 2015
+TI  - The relationship between quantitative human epidermal growth factor receptor 2
+      gene expression by the 21-gene reverse transcriptase polymerase chain reaction
+      assay and adjuvant trastuzumab benefit in Alliance N9831.
+LID - 133
+AB  - Introduction: The N9831 trial demonstrated the efficacy of adjuvant trastuzumab
+      for patients with human epidermal growth factor receptor 2 (HER2) locally
+      positive tumors by protein or gene analysis. We used the 21-gene assay to examine
+      the association of quantitative HER2 messenger RNA (mRNA) gene expression and
+      benefit from trastuzumab. Methods: N9831 tested the addition of trastuzumab to
+      chemotherapy in stage I–III HER2-positive breast cancer. For two of the arms of
+      the trial, doxorubicin and cyclophosphamide followed by paclitaxel (AC-T) and
+      doxorubicin and cyclophosphamide followed by paclitaxel and trastuzumab
+      concurrent chemotherapy-trastuzumab (AC-TH), recurrence score (RS) and HER2 mRNA 
+      expression were determined by the 21-gene assay (Oncotype DX®) (negative <10.7,
+      equivocal 10.7 to <11.5, and positive ≥11.5 log2 expression units). Cox
+      regression was used to assess the association of HER2 expression with trastuzumab
+      benefit in preventing distant recurrence. Results: Median follow-up was
+      7.4 years. Of 1,940 total patients, 901 had consent and sufficient tissue. HER2
+      by reverse transcriptase polymerase chain reaction (RT-PCR) was negative in 130
+      (14 %), equivocal in 85 (9 %), and positive in 686 (76 %) patients. Concordance
+      between HER2 assessments was 95 % for RT-PCR versus central immunohistochemistry 
+      (IHC) (>10 % positive cells = positive), 91 % for RT-PCR versus central
+      fluorescence in situ hybridization (FISH) (≥2.0 = positive) and 94 % for central 
+      IHC versus central FISH. In the primary analysis, the association of HER2
+      expression by 21-gene assay with trastuzumab benefit was marginally
+      nonsignificant (nonlinear p = 0.057). In hormone receptor-positive patients
+      (local IHC) the association was significant (p = 0.002). The association was
+      nonlinear with the greatest estimated benefit at lower and higher HER2 expression
+      levels. Conclusions: Concordance among HER2 assessments by central IHC, FISH, and
+      RT-PCR were similar and high. Association of HER2 mRNA expression with
+      trastuzumab benefit as measured by time to distant recurrence was nonsignificant.
+      A consistent benefit of trastuzumab irrespective of mHER2 levels was observed in 
+      patients with either IHC-positive or FISH-positive tumors. Trend for benefit was 
+      observed also for the small groups of patients with negative results by any or
+      all of the central assays. Trial registration: Clinicaltrials.gov NCT00005970.
+      Registered 5 July 2000. Electronic supplementary material: The online version of 
+      this article (doi:10.1186/s13058-015-0643-7) contains supplementary material,
+      which is available to authorized users.
+FAU - Perez, Edith A.
+AU  - Perez EA
+AD  - Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224 USA
+FAU - Baehner, Frederick L.
+AU  - Baehner FL
+AD  - Genomic Health, Inc, 301 Penobscot Drive, Redwood City, CA 94063 USA
+FAU - Butler, Steven M.
+AU  - Butler SM
+AD  - Genomic Health, Inc, 301 Penobscot Drive, Redwood City, CA 94063 USA
+FAU - Thompson, E. Aubrey
+AU  - Thompson EA
+AD  - Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224 USA
+FAU - Dueck, Amylou C.
+AU  - Dueck AC
+AD  - Alliance Statistics and Data Center, Mayo Clinic, 13400 E. Shea Boulevard,
+      Scottsdale, AZ USA
+FAU - Jamshidian, Farid
+AU  - Jamshidian F
+AD  - Genomic Health, Inc, 301 Penobscot Drive, Redwood City, CA 94063 USA
+FAU - Cherbavaz, Diana
+AU  - Cherbavaz D
+AD  - Genomic Health, Inc, 301 Penobscot Drive, Redwood City, CA 94063 USA
+FAU - Yoshizawa, Carl
+AU  - Yoshizawa C
+AD  - Genomic Health, Inc, 301 Penobscot Drive, Redwood City, CA 94063 USA
+FAU - Shak, Steven
+AU  - Shak S
+AD  - Genomic Health, Inc, 301 Penobscot Drive, Redwood City, CA 94063 USA
+FAU - Kaufman, Peter A.
+AU  - Kaufman PA
+AD  - Norris Cotton Cancer Center, Dartmouth-Hitchcock Medical Center, 1 Medical Center
+      Drive, Lebanon, NH 03766 USA
+FAU - Davidson, Nancy E.
+AU  - Davidson NE
+AD  - University of Pittsburgh Cancer Institute, 5150 Centre Avenue, Pittsburgh, PA
+      15232 USA
+FAU - Gralow, Julie
+AU  - Gralow J
+AD  - Seattle Cancer Care Alliance, 825 Eastlake Avenue East, Seattle, WA 98109 USA
+FAU - Asmann, Yan W.
+AU  - Asmann YW
+AD  - Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224 USA
+FAU - Ballman, Karla V.
+AU  - Ballman KV
+AD  - Alliance Statistics and Data Center, 200 1st Street SW, Mayo Clinic, Rochester,
+      MN 55905 USA
+LA  - eng
+PT  - Journal Article
+DEP - 20151001
+PHST- 2015/01/05 [received]
+PHST- 2015/09/14 [accepted]
+TA  - Breast Cancer Res
+JT  - Breast Cancer Research : BCR
+AID - 643 [pii]
+AID - 10.1186/s13058-015-0643-7 [doi]
+SO  - Breast Cancer Res. 2015;17:. Epub 2015 Oct 1 doi:10.1186/s13058-015-0643-7.
+
+PMC - PMC4701034
+PMID- 26412349
+IS  - 0028-4793 (Print)
+IS  - 1533-4406 (Electronic)
+VI  - 373
+IP  - 21
+DP  - 2015 Nov 19
+TI  - Prospective Validation of a 21-Gene Expression Assay in Breast Cancer.
+PG  - 2005-14
+AB  - BACKGROUND: Prior studies with the use of a prospective–retrospective design
+      including archival tumor samples have shown that gene-expression assays provide
+      clinically useful prognostic information. However, a prospectively conducted
+      study in a uniformly treated population provides the highest level of evidence
+      supporting the clinical validity and usefulness of a biomarker. METHODS: We
+      performed a prospective trial involving women with hormone-receptor–positive,
+      human epidermal growth factor receptor type 2 (HER2)–negative, axillary
+      node–negative breast cancer with tumors of 1.1 to 5.0 cm in the greatest
+      dimension (or 0.6 to 1.0 cm in the greatest dimension and intermediate or high
+      tumor grade) who met established guidelines for the consideration of adjuvant
+      chemotherapy on the basis of clinicopathologic features. A
+      reverse-transcriptase–polymerase-chain-reaction assay of 21 genes was performed
+      on the paraffin-embedded tumor tissue, and the results were used to calculate a
+      score indicating the risk of breast-cancer recurrence; patients were assigned to 
+      receive endocrine therapy without chemotherapy if they had a recurrence score of 
+      0 to 10, indicating a very low risk of recurrence (on a scale of 0 to 100, with
+      higher scores indicating a greater risk of recurrence). RESULTS: Of the 10,253
+      eligible women enrolled, 1626 women (15.9%) who had a recurrence score of 0 to 10
+      were assigned to receive endocrine therapy alone without chemotherapy. At 5
+      years, in this patient population, the rate of invasive disease–free survival was
+      93.8% (95% confidence interval [CI], 92.4 to 94.9), the rate of freedom from
+      recurrence of breast cancer at a distant site was 99.3% (95% CI, 98.7 to 99.6),
+      the rate of freedom from recurrence of breast cancer at a distant or
+      local–regional site was 98.7% (95% CI, 97.9 to 99.2), and the rate of overall
+      survival was 98.0% (95% CI, 97.1 to 98.6). CONCLUSIONS: Among patients with
+      hormone-receptor–positive, HER2-negative, axillary node–negative breast cancer
+      who met established guidelines for the recommendation of adjuvant chemotherapy on
+      the basis of clinicopathologic features, those with tumors that had a favorable
+      gene-expression profile had very low rates of recurrence at 5 years with
+      endocrine therapy alone. (Funded by the National Cancer Institute and others;
+      ClinicalTrials.gov number, NCT00310180.)
+FAU - Sparano, J.A.
+AU  - Sparano J
+FAU - Gray, R.J.
+AU  - Gray R
+FAU - Makower, D.F.
+AU  - Makower D
+FAU - Pritchard, K.I.
+AU  - Pritchard K
+FAU - Albain, K.S.
+AU  - Albain K
+FAU - Hayes, D.F.
+AU  - Hayes D
+FAU - Geyer, C.E.
+AU  - Geyer C
+FAU - Dees, E.C.
+AU  - Dees E
+FAU - Perez, E.A.
+AU  - Perez E
+FAU - Olson, J.A.
+AU  - Olson J
+FAU - Zujewski, J.A.
+AU  - Zujewski J
+FAU - Lively, T.
+AU  - Lively T
+FAU - Badve, S.S.
+AU  - Badve S
+FAU - Saphner, T.J.
+AU  - Saphner T
+FAU - Wagner, L.I.
+AU  - Wagner L
+FAU - Whelan, T.J.
+AU  - Whelan T
+FAU - Ellis, M.J.
+AU  - Ellis M
+FAU - Paik, S.
+AU  - Paik S
+FAU - Wood, W.C.
+AU  - Wood W
+FAU - Ravdin, P.
+AU  - Ravdin P
+FAU - Keane, M.M.
+AU  - Keane M
+FAU - Gomez Moreno, H.L.
+AU  - Gomez Moreno H
+FAU - Reddy, P.S.
+AU  - Reddy P
+FAU - Goggins, T.F.
+AU  - Goggins T
+FAU - Mayer, I.A.
+AU  - Mayer I
+FAU - Brufsky, A.M.
+AU  - Brufsky A
+FAU - Toppmeyer, D.L.
+AU  - Toppmeyer D
+FAU - Kaklamani, V.G.
+AU  - Kaklamani V
+FAU - Atkins, J.N.
+AU  - Atkins J
+FAU - Berenberg, J.L.
+AU  - Berenberg J
+FAU - Sledge, G.W.
+AU  - Sledge G
+LA  - eng
+PT  - Journal Article
+DEP - 20150927
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+AID - 10.1056/NEJMoa1510764 [doi]
+MID - NIHMS742757
+SO  - N Engl J Med. 2015 Nov 19;373(21):2005-14. Epub 2015 Sep 27
+      doi:10.1056/NEJMoa1510764.
+
+PMC - PMC4511377
+PMID- 26029936
+IS  - 2330-7749 (Print)
+VI  - 13
+IP  - 5
+DP  - 2015 May
+TI  - Treatment differences between urban and rural women with hormone
+      receptor-positive early-stage breast cancer based on 21-gene assay recurrence
+      score results.
+PG  - 195-201
+AB  - Background: Women who live in rural and urban settings have different outcomes
+      for breast cancer. A 21-gene assay predicts 10-year distant recurrence risk and
+      potential benefit of chemotherapy for women with hormone receptor-positive (HR+) 
+      breast cancer. Objective: To assess differences in scores and cancer therapies
+      received by rural versus urban residence. Methods: We conducted a
+      multi-institutional retrospective chart review of breast cancer patients
+      diagnosed 2005-2010 with score results. Comparisons by rural versus urban
+      residence (determined by rural-urban commuting area (RUCA) codes derived from zip
+      codes) were made using the Fisher exact test for discrete data such as recurrence
+      score results (<18 vs >18; score range, 0-100, with lower results correlated with
+      less risk of distant recurrence), stage, and receptor status. The Wilcoxon rank
+      sum test was used for continuous data (score results 0-100 and age.) All tests
+      were at a 2-sided significance level of .05. Results: 504 patients had RUCA codes
+      (92% white, 62% postmenopausal). For rural (n = 135) compared with urban (n =
+      369) patients, the median scores were 16 and 18, respectively, P = .18. Most of
+      the patients received endocrine therapy, 123 of 135 (91%) rural, compared with
+      339 of 369 (92%) urban (P = .19). For scores 18-30, 20 of 56 (36%) rural
+      patients, compared with 82 of 159 (52%) urban patients received chemotherapy (P =
+      .03). Limitations: Limitations include lack of randomization to receipt of the
+      assay. Conclusions: Recurrence score results did not significantly differ between
+      women based on residence, although women living in a rural area received
+      significantly less chemotherapy for scores >18. This suggests that for
+      HR-positive breast cancer, discrepancies between rural and urban residence are
+      driven by treatment factors rather than differences in biology. Funding: Genomic 
+      Health Inc
+FAU - Andreason, Molly
+AU  - Andreason M
+AD  - School of Medicine and Public Health, University of Wisconsin, Madison
+FAU - Zhang, Chong
+AU  - Zhang C
+AD  - Department of Biostatistics and Medical Informatics, University of Wisconsin,
+      Madison
+FAU - Onitilo, Adedayo A
+AU  - Onitilo AA
+AD  - Department of Hematology/Oncology, Marshfield Clinic Weston Center, Marshfield
+      Clinic Research Foundation, Marshfield, Wisconsin
+FAU - Engel, Jessica
+AU  - Engel J
+AD  - Marshfield Clinic Research Foundation, Marshfield Clinic at Ministry Saint
+      Michaels Hospital, Marshfield, Wisconsin
+FAU - Ledesma, Wendy M
+AU  - Ledesma WM
+AD  - School of Medicine and Public Health, University of Wisconsin Carbone Cancer
+      Center, Madison, Wisconsin
+FAU - Ridolfi, Kimberly
+AU  - Ridolfi K
+AD  - Medical College of Wisconsin, Froedtert Cancer Center, Milwaukee, Wisconsin
+FAU - Kim, KyungMann
+AU  - Kim K
+AD  - Department of Biostatistics and Medical Informatics, University of Wisconsin,
+      Madison
+FAU - Charlson, John C
+AU  - Charlson JC
+AD  - Medical College of Wisconsin, Froedtert Cancer Center, Milwaukee, Wisconsin
+FAU - Wisinski, Kari B
+AU  - Wisinski KB
+AD  - Hematology/Oncology Section, School of Medicine & Public Health, University of
+      Wisconsin Carbone Cancer Center, Madison
+FAU - Tevaarwerk, Amye J
+AU  - Tevaarwerk AJ
+AD  - Hematology/Oncology Section, School of Medicine and Public Health, University of 
+      Wisconsin Carbone Cancer Center, Madison
+LA  - eng
+PT  - Journal Article
+TA  - J Community Support Oncol
+JT  - The Journal of community and supportive oncology
+AID - 10.12788/jcso.0135 [doi]
+MID - NIHMS707063
+SO  - J Community Support Oncol. 2015 May;13(5):195-201. doi:10.12788/jcso.0135.
+
+PMC - PMC4847530
+PMID- 26072275
+IS  - 1526-8209 (Print)
+IS  - 1938-0666 (Electronic)
+VI  - 15
+IP  - 6
+DP  - 2015 Dec
+TI  - A Validated Model for Identifying Patients Unlikely to Benefit From the 21-Gene
+      Recurrence Score Assay.
+PG  - 467-72
+AB  - Predicting recurrence risk and chemotherapy benefit in early-stage breast cancer 
+      is challenging. The Oncotype DX gene assay is often used. Using a database of 221
+      patients a simple 2-rule model was developed and validated on an independent
+      group of 319 patients. The model categorizes patients unlikely to benefit from
+      the test thus achieving significant avoidance of cost.Background: Predicting
+      recurrence risk and chemotherapy benefit in early-stage breast cancer can be
+      challenging, and Oncotype DX (ODX) is often used to gain insight. However, it is 
+      still unclear whether ODX can benefit in all cases. To clarify ODX’s usefulness
+      we sought to develop a model using readily available pathologic markers to help
+      clinicians make that determination. Patients and Methods: Clinical pathologic
+      data from 221 hormone receptor-positive, HER2-negative invasive breast cancer
+      patients was used to create a model. The model was then validated on a second
+      institution’s set of 319 patients. Results: The model has 2 simple rules: low
+      grade and positive progesterone receptor tumors (LG+PR) are low risk, and high
+      grade or low estrogen receptor (ER) (ER < 20%) tumors (HG/LER) are high risk. The
+      TAILORx (Trial Assigning Individualized Options for Treatment (Rx)) trial
+      thresholds of Recurrence Score (RS) ≤ 10, when chemotherapy is of little benefit,
+      and RS ≥ 26 when chemotherapy might be beneficial were used to judge model
+      performance. Impressively, the misclassifications of an HG/LER patient who has an
+      RS ≤ 10 were 0% and 2%, and for LG+PR patients who had an RS ≥ 26 were 0% and
+      2.6%. In the validation set, 28% (66 of 232) of the indeterminate group (neither 
+      in the HG/LER nor the LG + PR groups) had an RS ≤ 10 or an RS ≥ 26; this group
+      might clinically benefit from ODX. Conclusion: A simple 2-rule model based on
+      readily available pathologic data was developed and validated, which categorized 
+      patients into high and low risk for recurrence. Identification of patients who
+      are unlikely to benefit from ODX testing could result in significant cost
+      avoidance.
+FAU - Gage, Michele M.
+AU  - Gage MM
+AD  - Anne Arundel Medical Center, Annapolis, MD
+FAU - Rosman, Martin
+AU  - Rosman M
+AD  - Anne Arundel Medical Center, Annapolis, MD
+FAU - Mylander, W. Charles
+AU  - Mylander WC
+AD  - Anne Arundel Medical Center, Annapolis, MD
+FAU - Giblin, Erica
+AU  - Giblin E
+AD  - Anne Arundel Medical Center, Annapolis, MD
+FAU - Kim, Hyun-seok
+AU  - Kim Hs
+AD  - Johns Hopkins Hospital, Baltimore, MD
+FAU - Cope, Leslie
+AU  - Cope L
+AD  - Johns Hopkins Hospital, Baltimore, MD
+FAU - Umbricht, Christopher
+AU  - Umbricht C
+AD  - Johns Hopkins Hospital, Baltimore, MD
+FAU - Wolff, Antonio C.
+AU  - Wolff AC
+AD  - Johns Hopkins Hospital, Baltimore, MD
+FAU - Tafra, Lorraine
+AU  - Tafra L
+AD  - Anne Arundel Medical Center, Annapolis, MD
+LA  - eng
+PT  - Journal Article
+DEP - 20150423
+TA  - Clin Breast Cancer
+JT  - Clinical breast cancer
+AID - 10.1016/j.clbc.2015.04.006 [doi]
+MID - NIHMS780626
+SO  - Clin Breast Cancer. 2015 Dec;15(6):467-72. Epub 2015 Apr 23
+      doi:10.1016/j.clbc.2015.04.006.
+
+PMC - PMC4381203
+PMID- 25789420
+IS  - 1424-8247 (Electronic)
+VI  - 8
+IP  - 1
+DP  - 2015 Mar
+TI  - A Retrospective Study of the Impact of 21-Gene Recurrence Score Assay on
+      Treatment Choice in Node Positive Micrometastatic Breast Cancer.
+PG  - 107-22
+AB  - To assess clinical utility of the 21-gene assay (Oncotype DX® Recurrence Score®),
+      we determined whether women with HER2(−)/ER+ pN1mi breast cancer with low (<18)
+      Recurrence Scores results are given adjuvant chemotherapy in a lower proportion
+      than those with high scores (≥31). This was a multicenter chart review of ≥18
+      year old women with pN1mi breast cancer, HER2(−)/ER+ tumors, ductal/lobular/mixed
+      histology, with the assay ordered on or after 1 January 2007. One hundred and
+      eighty one patients had a mean age of 60.7 years; 82.9% had ECOG performance
+      status 0; 33.7% had hypertension, 22.7% had osteoporosis, 18.8% had
+      osteoarthritis, and 8.8% had type-2 diabetes. Mean Recurrence Score was 17.8
+      (range: 0–50). 48.6% had a mastectomy; 55.8% had a lumpectomy. 19.8% of low-risk 
+      group patients were recommended chemotherapy vs. 57.9% in the intermediate-risk
+      group and 100% in the high-risk group (p < 0.001). A total of 80.2% of the
+      low-risk group were recommended endocrine therapy alone, while 77.8% of the
+      high-risk group were recommended both endocrine and chemotherapy (p < 0.001). The
+      Oncotype DX Recurrence Score result provides actionable information that can be
+      incorporated into treatment planning for women with HER2(−)/ER+ pN1mi breast
+      cancer. The Recurrence Score result has clinical utility in treatment planning
+      for HER2(−)/ER+ pN1mi breast cancer patients.
+FAU - Frazier, Thomas G.
+AU  - Frazier TG
+AD  - Main Line HealthCare Breast Surgical Specialists, Susquehanna Bank Building, 101 
+      South Bryn Mawr Ave, Suite 201, Bryn Mawr, PA 19010, USA; E-Mail:
+      tgf@tgfsurgery.com
+FAU - Fox, Kevin R.
+AU  - Fox KR
+AD  - Rena Rowan Breast Center at the Abramson Cancer Center of the University of
+      Pennsylvania, 3400 Civic Center Boulevard, 3 West Pavilion, Philadelphia, PA
+      19104, USA; E-Mail: Kevin.Fox@uphs.upenn.edu
+FAU - Smith, J. Stanley
+AU  - Smith JS
+AD  - Penn State Hershey Breast Center, Penn State College of Medicine, 30 Hope Drive, 
+      MC EC008, P.O. Box 859, Hershey, Pennsylvania 17033, USA; E-Mail:
+      jsmith9@hmc.psu.edu
+FAU - Laronga, Christine
+AU  - Laronga C
+AD  - H. Lee Moffitt Cancer Center and Research Institute, 12902 Magnolia Drive, Tampa,
+      FL 33612, USA; E-Mail: Christine.Laronga@moffitt.org
+FAU - McSwain, Anita
+AU  - McSwain A
+AD  - The George Washington University, GW Medical Faculty Associates, 2300 M Street,
+      NW 8th floor, DC Level, Washington, DC 20037, USA; E-Mails: amcswain@mfa.gwu.edu 
+      (A.M.); cteal@mfa.gwu.edu (C.T.)
+FAU - Paul, Devchand
+AU  - Paul D
+AD  - Rocky Mountain Cancer Centers, 4700 East Hale Parkway, Suite 400, Denver, CO
+      80220, USA; E-Mail: devchand.paul@usoncology.com
+FAU - Schultz, Michael
+AU  - Schultz M
+AD  - University of Maryland St. Joseph Medical Center, 7601 Osler Drive, Towson, MD
+      21204, USA; E-Mail: michaelschultz@umm.edu
+FAU - Stilwill, Joseph
+AU  - Stilwill J
+AD  - Midwest Cancer Care Physicians at the Menorah Medical Center, 2316 East Meyer
+      Boulevard, 1 West, Kansas City, MO 64132, USA; E-Mail:
+      Joseph.stilwill@hcahealthcare.com
+FAU - Teal, Christine
+AU  - Teal C
+AD  - The George Washington University, GW Medical Faculty Associates, 2300 M Street,
+      NW 8th floor, DC Level, Washington, DC 20037, USA; E-Mails: amcswain@mfa.gwu.edu 
+      (A.M.); cteal@mfa.gwu.edu (C.T.)
+FAU - Weisberg, Tracey
+AU  - Weisberg T
+AD  - The Maine Center for Cancer Medicine, 100 Campus Drive, unit 108, Scarborough,
+      Maine 04074, USA; E-Mail: weisbt@mccm.org
+FAU - Vacchino, Judith F.
+AU  - Vacchino JF
+AD  - Genomic Health, Inc., 301 Penobscot Drive, Redwood City, CA 94063, USA; E-Mails: 
+      JVacchino@genomichealth.com (J.F.V.); asing@genomichealth.com (A.P.S.)
+FAU - Sing, Amy P.
+AU  - Sing AP
+AD  - Genomic Health, Inc., 301 Penobscot Drive, Redwood City, CA 94063, USA; E-Mails: 
+      JVacchino@genomichealth.com (J.F.V.); asing@genomichealth.com (A.P.S.)
+FAU - Cherepanov, Dasha
+AU  - Cherepanov D
+AD  - Partnership for Health Analytic Research, LLC, 280 S. Beverly Drive, Suite 404,
+      Beverly Hills, CA 90212, USA; E-Mails: echang@pharllc.com (E.C.);
+      mbroder@pharllc.com (M.S.B.)
+FAU - Hsiao, Wendy
+AU  - Hsiao W
+AD  - Keck School of Medicine, University of Southern California, Los Angeles, CA
+      90089, USA; E-Mail: wendy.hsiao@usc.edu
+FAU - Chang, Eunice
+AU  - Chang E
+AD  - Partnership for Health Analytic Research, LLC, 280 S. Beverly Drive, Suite 404,
+      Beverly Hills, CA 90212, USA; E-Mails: echang@pharllc.com (E.C.);
+      mbroder@pharllc.com (M.S.B.)
+FAU - Broder, Michael S.
+AU  - Broder MS
+AD  - Partnership for Health Analytic Research, LLC, 280 S. Beverly Drive, Suite 404,
+      Beverly Hills, CA 90212, USA; E-Mails: echang@pharllc.com (E.C.);
+      mbroder@pharllc.com (M.S.B.)
+LA  - eng
+PT  - Journal Article
+DEP - 20150317
+PHST- 2014/11/21 [received]
+PHST- 2015/02/09 [accepted]
+TA  - Pharmaceuticals (Basel)
+JT  - Pharmaceuticals
+AID - 10.3390/ph8010107 [doi]
+AID - pharmaceuticals-08-00107 [pii]
+SO  - Pharmaceuticals (Basel). 2015 Mar 17;8(1):107-22. doi:10.3390/ph8010107.
+
+PMC - PMC4318826
+PMID- 25674496
+IS  - 2193-1801 (Electronic)
+VI  - 4
+DP  - 2015
+TI  - The 21-gene recurrence score complements IBTR! Estimates in early-stage, hormone 
+      receptor-positive, HER2-normal, lymph node-negative breast cancer.
+LID - 36
+AB  - Clinicians have traditionally used clinicopathological (CP) factors to determine 
+      locoregional recurrence (LR) risk of breast cancer and have generated the IBTR!
+      nomogram to predict the risk of ipsilateral breast tumor recurrence (IBTR). The
+      21-gene recurrence score (RS) assay was recently correlated with LR in
+      retrospective studies. The objective of this study was to examine the
+      relationship between the RS and IBTR!. CP characteristics of 308 consecutive
+      patients who underwent RS testing at our institution were examined. IBTR! was
+      used to estimate the risk of 10-year IBTR. Descriptive statistics were used to
+      compare the RS with the estimated IBTR!. Given a low event rate in this cohort,
+      actual IBTR rates were not reported. Most patients had stage I/II (98%) and grade
+      I/II (77%) disease. Median age was 54 years (range, 30–78). Median IBTR! without 
+      radiation therapy was 10% (mean, 12% [range, 4-43%]). RS was low (<18),
+      intermediate (18–30), and high (>30) in 52% (n = 160), 40% (n = 123), and 8%
+      (n = 25) patients. Overall, IBTR! did not correlate with RS (P = .77). We saw no 
+      correlation between RS and IBTR! in patients with less than (P = .32) or greater 
+      than (P = .48) a 10% risk of IBTR. Interestingly, Ki-67 expression correlated
+      with both IBTR! (P = .019) and the RS (P = .002). Further study is warranted to
+      determine if the RS can provide complementary biological information to CP
+      factors in estimating the risk of LR. Prospective studies evaluating this
+      association may potentially allow for individualized treatment
+      decisions.Electronic supplementary material: The online version of this article
+      (doi:10.1186/s40064-015-0840-y) contains supplementary material, which is
+      available to authorized users.
+FAU - Thaker, Nikhil G
+AU  - Thaker NG
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Hoffman, Karen E
+AU  - Hoffman KE
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Stauder, Michael C
+AU  - Stauder MC
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Shaitelman, Simona F
+AU  - Shaitelman SF
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Strom, Eric A
+AU  - Strom EA
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Tereffe, Welela
+AU  - Tereffe W
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Smith, Benjamin D
+AU  - Smith BD
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Perkins, George H
+AU  - Perkins GH
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Huo, Lei
+AU  - Huo L
+AD  - Department of Pathology, The University of Texas MD Anderson Cancer Center,
+      Houston, TX USA
+FAU - Munsell, Mark F
+AU  - Munsell MF
+AD  - Department of Biostatistics, The University of Texas MD Anderson Cancer Center,
+      Houston, TX USA
+FAU - Pusztai, Lajos
+AU  - Pusztai L
+AD  - Department of Medical Oncology, Yale Cancer Center, New Haven, CT USA
+FAU - Buchholz, Thomas A
+AU  - Buchholz TA
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+FAU - Woodward, Wendy A
+AU  - Woodward WA
+AD  - Department of Radiation Oncology, Unit 1202, The University of Texas MD Anderson 
+      Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030 USA
+LA  - eng
+PT  - Journal Article
+DEP - 20150130
+PHST- 2014/12/11 [received]
+PHST- 2015/01/20 [accepted]
+TA  - Springerplus
+JT  - SpringerPlus
+AID - 840 [pii]
+AID - 10.1186/s40064-015-0840-y [doi]
+SO  - Springerplus. 2015 Jan 30;4:. doi:10.1186/s40064-015-0840-y.
+
+PMC - PMC4869872
+PMID- 25472643
+IS  - 1068-9265 (Print)
+IS  - 1534-4681 (Electronic)
+VI  - 22
+IP  - 4
+DP  - 2015 Apr
+TI  - The 21-Gene Recurrence Score and Locoregional Recurrence in Breast Cancer
+      Patients.
+PG  - 1088-94
+AB  - Purpose: Although the 21-gene recurrence score (RS) assay has been validated to
+      assess the risk of distant recurrence in hormone receptor-positive breast cancer 
+      patients, the relationship between RS and the risk of locoregional recurrence
+      (LRR) remains unclear. The purpose of this study was to determine if RS is
+      associated with LRR in breast cancer patients and whether this relationship
+      varies based on the type of local treatment [mastectomy or breast-conserving
+      therapy (BCT)]. Methods: 163 consecutive estrogen receptor-positive breast cancer
+      patients at our institution had an RS generated from the primary breast tumor
+      between August 2006 and October 2009. Patients were treated with lumpectomy and
+      radiation (BCT) (n = 110) or mastectomy alone (n = 53). Patients were stratified 
+      using a pre-determined RS of 25 and then grouped according to local therapy type.
+      Results: Median follow-up was 68.2 months. Patients who developed an LRR had
+      stage I or IIA disease, >2 mm surgical margins, and received chemotherapy as
+      directed by RS. While an RS > 25 did not predict for a higher rate of LRR, an RS 
+      > 24 was associated with LRR in our subjects. Among mastectomy patients, the
+      5-year LRR rate was 27.3 % in patients with an RS > 24 versus 10.7 % (p = 0.04)
+      in those whose RS was ≤24. RS was not associated with LRR in patients who
+      received BCT. Conclusions: Breast cancer patients treated with mastectomy for
+      tumors that have an RS > 24 are at high risk of LRR and may benefit from
+      post-mastectomy radiation.
+FAU - Jegadeesh, Naresh K.
+AU  - Jegadeesh NK
+AD  - Department of Radiation Oncology, Winship Cancer Institute, Emory University
+      School of Medicine, Atlanta, GA
+FAU - Kim, Sunjin
+AU  - Kim S
+AD  - Department of Biostatistics and Bioinformatics, Winship Cancer Institute, Emory
+      University, Atlanta, GA
+FAU - Prabhu, Roshan S.
+AU  - Prabhu RS
+AD  - Department of Radiation Oncology, Winship Cancer Institute, Emory University
+      School of Medicine, Atlanta, GA
+FAU - Oprea, Gabriela M.
+AU  - Oprea GM
+AD  - Department of Pathology and Laboratory Medicine, Winship Cancer Institute, Emory 
+      University, Atlanta, GA
+FAU - Yu, David S.
+AU  - Yu DS
+AD  - Department of Radiation Oncology, Winship Cancer Institute, Emory University
+      School of Medicine, Atlanta, GA
+FAU - Godette, Karen G.
+AU  - Godette KG
+AD  - Department of Radiation Oncology, Winship Cancer Institute, Emory University
+      School of Medicine, Atlanta, GA
+FAU - Zelnak, Amelia B.
+AU  - Zelnak AB
+AD  - Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+      University, Atlanta, GA
+FAU - Mister, Donna
+AU  - Mister D
+AD  - Department of Radiation Oncology, Winship Cancer Institute, Emory University
+      School of Medicine, Atlanta, GA
+FAU - Switchenko, Jeffrey M.
+AU  - Switchenko JM
+AD  - Department of Biostatistics and Bioinformatics, Winship Cancer Institute, Emory
+      University, Atlanta, GA
+FAU - Torres, Mylin A.
+AU  - Torres MA
+AD  - Department of Radiation Oncology, Winship Cancer Institute, Emory University
+      School of Medicine, Atlanta, GA
+LA  - eng
+PT  - Journal Article
+DEP - 20141204
+TA  - Ann Surg Oncol
+JT  - Annals of surgical oncology
+AID - 10.1245/s10434-014-4252-y [doi]
+MID - NIHMS784935
+SO  - Ann Surg Oncol. 2015 Apr;22(4):1088-94. Epub 2014 Dec 04
+      doi:10.1245/s10434-014-4252-y.
+
+PMC - PMC4251179
+PMID- 25469260
+IS  - 2049-9434 (Print)
+IS  - 2049-9442 (Electronic)
+VI  - 3
+IP  - 1
+DP  - 2015 Jan
+TI  - Association of a transcription factor 21 gene polymorphism with hypertension.
+PG  - 118-22
+AB  - Various loci and genes that confer susceptibility to coronary artery disease
+      (CAD) have been identified mainly in Caucasian populations by genome-wide
+      association studies (GWASs). As hypertension is a major risk factor for CAD,
+      certain polymorphisms may contribute to the genetic susceptibility to CAD through
+      affecting the predisposition to hypertension. The aim of the present study was to
+      examine a possible association of hypertension with 29 single-nucleotide
+      polymorphisms (SNPs) previously identified by meta-analyses of GWASs as
+      susceptibility loci for CAD. Study subjects comprised of 5,460 individuals (3,348
+      subjects with hypertension and 2,112 controls). The genotypes of SNPs were
+      determined by the multiplex bead-based Luminex assay. The χ2 test revealed that
+      genotype distributions and allele frequencies for rs12190287 of the transcription
+      factor 21 gene (TCF21) and rs1122608 of the SWI/SNF-related, matrix-associated,
+      actin-dependent regulator of chromatin, subfamily a, member 4 gene (SMARCA4) were
+      significantly (P<0.05) associated with hypertension. Allele frequencies for
+      rs9369640 of the phosphatase and actin regulator 1 gene (PHACTR1) and genotype
+      distributions for rs599839 of the proline/serine-rich coiled-coil 1 gene (PSRC1) 
+      were also significantly associated with hypertension. Multivariable logistic
+      regression analysis with adjustment for age, gender, body mass index and smoking 
+      status revealed that rs12190287 of TCF21 (P=0.0014; recessive model; odds ratio, 
+      1.21) was significantly associated with hypertension, and the C allele
+      represented a risk factor for this condition. Similar analyses revealed that
+      rs1122608 of SMARCA4 (P=0.0305; dominant model; odds ratio, 0.86), rs9369640 of
+      PHACTR1 (P=0.0119; dominant model; odds ratio, 0.82) and rs599839 of PSRC1
+      (P=0.0248; dominant model; odds ratio, 0.84) were also related to hypertension,
+      with the minor T, C and G alleles, respectively, being protective against this
+      condition. Thus, the present results indicate that rs12190287 (G→C) of TCF21 is a
+      susceptibility locus for hypertension.
+FAU - FUJIMAKI, TETSUO
+AU  - FUJIMAKI T
+AD  - Department of Cardiovascular Medicine, Inabe General Hospital, Inabe, Mie
+      511-0428, Japan
+FAU - OGURI, MITSUTOSHI
+AU  - OGURI M
+AD  - Department of Cardiology, Japanese Red Cross Nagoya First Hospital, Nagoya, Aichi
+      453-8511, Japan
+FAU - HORIBE, HIDEKI
+AU  - HORIBE H
+AD  - Department of Cardiovascular Medicine, Gifu Prefectural Tajimi Hospital, Tajimi, 
+      Gifu 507-8522, Japan
+FAU - KATO, KIMIHIKO
+AU  - KATO K
+AD  - Department of Internal Medicine, Meitoh Hospital, Nagoya, Aichi 465-0025, Japan
+FAU - MATSUOKA, REIKO
+AU  - MATSUOKA R
+AD  - Department of Cardiology, Gifu Prefectural General Medical Center, Gifu, Gigu
+      500-8717, Japan
+FAU - ABE, SHINTARO
+AU  - ABE S
+AD  - Department of Cardiology, Gifu Prefectural General Medical Center, Gifu, Gigu
+      500-8717, Japan
+FAU - TOKORO, FUMITAKA
+AU  - TOKORO F
+AD  - Department of Cardiology, Gifu Prefectural General Medical Center, Gifu, Gigu
+      500-8717, Japan
+FAU - ARAI, MASAZUMI
+AU  - ARAI M
+AD  - Department of Cardiology, Gifu Prefectural General Medical Center, Gifu, Gigu
+      500-8717, Japan
+FAU - NODA, TOSHIYUKI
+AU  - NODA T
+AD  - Department of Cardiology, Gifu Prefectural General Medical Center, Gifu, Gigu
+      500-8717, Japan
+FAU - WATANABE, SACHIRO
+AU  - WATANABE S
+AD  - Department of Cardiology, Gifu Prefectural General Medical Center, Gifu, Gigu
+      500-8717, Japan
+FAU - YAMADA, YOSHIJI
+AU  - YAMADA Y
+AD  - Department of Human Functional Genomics, Life Science Research Center, Mie
+      University, Tsu, Mie 514-8507, Japan
+LA  - eng
+PT  - Journal Article
+DEP - 20141013
+PHST- 2014/07/28 [received]
+PHST- 2014/11/09 [accepted]
+PHST- 2014/10/13 [aheadofprint]
+TA  - Biomed Rep
+JT  - Biomedical Reports
+AID - 10.3892/br.2014.371 [doi]
+AID - br-03-01-0118 [pii]
+SO  - Biomed Rep. 2015 Jan;3(1):118-22. Epub 2014 Oct 13 doi:10.3892/br.2014.371.
+
+PMC - PMC4398124
+PMID- 25381828
+IS  - 1598-2998 (Print)
+IS  - 2005-9256 (Electronic)
+VI  - 47
+IP  - 2
+DP  - 2015 Apr
+TI  - The Clinical Impact of 21-Gene Recurrence Score on Treatment Decisions for
+      Patients with Hormone Receptor-Positive Early Breast Cancer in Korea.
+PG  - 208-14
+AB  - Purpose: The 21-gene (Oncotype DX) recurrence score (RS) assay is useful in
+      predicting the benefits of adjuvant chemotherapy for early breast cancer patients
+      and is widely used in Western countries. However, to date, it has not gained much
+      popularity in East Asia. We analyzed the results from five institutions’
+      experience from using the 21-gene assay and examined the impact of assay results 
+      on decision making of chemotherapy in Korean breast cancer patients and the
+      associations between RS and clinicopathologic characteristics. Materials and
+      Methods: The 21-gene assay was performed on 212 patients with estrogen
+      receptor-positive early breast cancer in five institutions. Each center made
+      systemic treatment decisions both before and after the knowledge of assay
+      results. Results: Among the 212 patients, 132 (62.3%) had a low RS of < 18, 60
+      (28.3%) had an intermediate RS of 18-30, and 20 (9.4%) had a high RS of ≥ 31.
+      Histologic grade, presence of micrometastases, Ki-67, and presence of lymphatic
+      invasion were statistically associated with the RS results. Treatment decisions
+      were changed in 115 of 212 patients (54.2%) in 109 of 212 (51.4%) from
+      chemotherapy plus hormone therapy to hormone therapy, and in six of 212 (2.8%)
+      from hormone therapy to chemotherapy plus hormone therapy. Conclusion: The
+      21-gene breast cancer assay proved to have a significant impact on treatment
+      decision- making. The test reduces chemotherapy use in more than 50% of Korean
+      estrogen receptor-positive, early breast cancer patients.
+FAU - Lee, Moo Hyun
+AU  - Lee MH
+AD  - Center for Breast Cancer, National Cancer Center, Goyang, Korea
+FAU - Han, Wonshik
+AU  - Han W
+AD  - Department of Surgery, Seoul National University College of Medicine, Seoul,
+      Korea
+FAU - Lee, Jeong Eon
+AU  - Lee JE
+AD  - Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of 
+      Medicine, Seoul, Korea
+FAU - Kim, Ku Sang
+AU  - Kim KS
+AD  - Department of Surgery, Ajou University School of Medicine, Suwon, Korea
+FAU - Park, Heeseung
+AU  - Park H
+AD  - Department of Surgery, Asan Medical Center, University of Ulsan College of
+      Medicine, Seoul, Korea
+FAU - Kim, Jongjin
+AU  - Kim J
+AD  - Department of Surgery, Seoul National University College of Medicine, Seoul,
+      Korea
+FAU - Bae, Soo Youn
+AU  - Bae SY
+AD  - Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of 
+      Medicine, Seoul, Korea
+FAU - Shin, Hyun Joo
+AU  - Shin HJ
+AD  - Department of Surgery, Ajou University School of Medicine, Suwon, Korea
+FAU - Lee, Jong Won
+AU  - Lee JW
+AD  - Department of Surgery, Asan Medical Center, University of Ulsan College of
+      Medicine, Seoul, Korea
+FAU - Lee, Eun Sook
+AU  - Lee ES
+AD  - Center for Breast Cancer, National Cancer Center, Goyang, Korea
+LA  - eng
+PT  - Journal Article
+DEP - 20140911
+PHST- 2013/10/31 [received]
+PHST- 2014/01/27 [accepted]
+PHST- 2014/09/11 [aheadofprint]
+TA  - Cancer Res Treat
+JT  - Cancer Research and Treatment : Official Journal of Korean Cancer Association
+AID - 10.4143/crt.2013.223 [doi]
+AID - crt-2013-223 [pii]
+SO  - Cancer Res Treat. 2015 Apr;47(2):208-14. Epub 2014 Sep 11
+      doi:10.4143/crt.2013.223.
+
+PMC - PMC4165904
+PMID- 25190451
+IS  - 1472-6963 (Electronic)
+VI  - 14
+DP  - 2014
+TI  - Societal cost-effectiveness analysis of the 21-gene assay in
+      estrogen-receptor–positive, lymph-node–negative early-stage breast cancer in
+      Japan.
+LID - 372
+AB  - Background: Breast-cancer incidence and mortality have been increasing in Japan. 
+      Japanese-specific clinical validity and utility data for the 21-gene assay
+      (Oncotype DX® Breast Cancer Assay; Genomic Health, Inc., Redwood City, USA) are
+      now available. The objective of this study was to evaluate the cost-effectiveness
+      of the 21-gene assay for the guidance of adjuvant chemotherapy decisions in
+      estrogen-receptor–positive, lymph-node–negative, early-stage breast cancer
+      patients, from the Japanese societal perspective. Methods: The recurrence risk
+      group distribution by the 21-gene assay result and the assay’s influence on
+      adjuvant chemotherapy recommendations were obtained from a study of 104 patients.
+      A state-transition cohort (Markov) model tracked time from surgery until distant 
+      recurrence and from distant recurrence to death. Adjuvant chemotherapy benefit by
+      21-gene assay risk group was based on published clinical validation studies.
+      Direct and indirect medical costs were obtained from the referral centers.
+      Utilities associated with progression and chemotherapy-related adverse events
+      were extracted from literature. Sensitivity analyses assessed the key drivers and
+      robustness of the primary outcomes. Results: The 21-gene assay identified 48% of 
+      patients as low-risk, 36% as intermediate-risk, and 16% as high-risk. Total acute
+      chemotherapy-related costs decreased by ¥154,066 due to less adjuvant
+      chemotherapy usage. In the high-risk group, adjuvant chemotherapy use increased
+      18%, leading to survival benefits. Chemotherapy use overall decreased by 19%.
+      Monitoring costs increased by ¥3,744 but recurrence costs declined by ¥46,113 per
+      patient. Use of the 21-gene assay increased quality-adjusted–life-years (QALYs)
+      by 0.241 per patient on average; the net cost per QALY gained was ¥636,752
+      ($6,368). Conclusions: The 21-gene assay for women with
+      estrogen-receptor–positive, lymph-node–negative, early-stage breast cancer is
+      projected to be cost-effective in Japan.
+FAU - Yamauchi, Hideko
+AU  - Yamauchi H
+AD  - Department of Breast Surgery, St. Luke’s International Hospitalcph, Tokyo, Japan
+FAU - Nakagawa, Chizuko
+AU  - Nakagawa C
+AD  - Department of Breast Surgery, St. Luke’s International Hospitalcph, Tokyo, Japan
+FAU - Yamashige, Shinji
+AU  - Yamashige S
+AD  - Graduate School of Economics, Hitotsubashi University, Tokyo, Japan
+FAU - Takei, Hiroyuki
+AU  - Takei H
+AD  - Division of Breast Surgery, Saitama Cancer Center, Saitama, Japan
+FAU - Yagata, Hiroshi
+AU  - Yagata H
+AD  - Department of Breast Surgery, St. Luke’s International Hospitalcph, Tokyo, Japan
+FAU - Yoshida, Atsushi
+AU  - Yoshida A
+AD  - Department of Breast Surgery, St. Luke’s International Hospitalcph, Tokyo, Japan
+FAU - Hayashi, Naoki
+AU  - Hayashi N
+AD  - Department of Breast Surgery, St. Luke’s International Hospitalcph, Tokyo, Japan
+FAU - Hornberger, John
+AU  - Hornberger J
+AD  - Cedar Associates LLC, Menlo Park, CA USA
+FAU - Yu, Tiffany
+AU  - Yu T
+AD  - Cedar Associates LLC, Menlo Park, CA USA
+FAU - Chao, Calvin
+AU  - Chao C
+AD  - Genomic Health, Inc, Redwood City, CA USA
+FAU - Yoshizawa, Carl
+AU  - Yoshizawa C
+AD  - Genomic Health, Inc, Redwood City, CA USA
+FAU - Nakamura, Seigo
+AU  - Nakamura S
+AD  - Department of Breast Surgery, St. Luke’s International Hospitalcph, Tokyo, Japan
+LA  - eng
+PT  - Journal Article
+DEP - 20140905
+PHST- 2013/12/12 [received]
+PHST- 2014/08/29 [accepted]
+TA  - BMC Health Serv Res
+JT  - BMC Health Services Research
+AID - 3476 [pii]
+AID - 10.1186/1472-6963-14-372 [doi]
+SO  - BMC Health Serv Res. 2014 Sep 5;14:. doi:10.1186/1472-6963-14-372.
+
+PMC - PMC4162320
+PMID- 24853663
+IS  - 0277-3732 (Print)
+IS  - 1537-453X (Electronic)
+VI  - 37
+IP  - 4
+DP  - 2014 Aug
+TI  - Predictive and Prognostic Value of the 21-Gene Recurrence Score in Hormone
+      Receptor–positive, Node-positive Breast Cancer.
+PG  - 404-10
+AB  - The addition of adjuvant chemotherapy to hormonal therapy is recommended for
+      patients with estrogen receptor–positive (ER+), node-positive (N+) early breast
+      cancer (EBC). Some of these patients, however, are not likely to benefit from
+      treatment and may, therefore, be overtreated while also incurring unnecessary
+      treatment-related adverse events and health care costs. The 21-gene Recurrence
+      Score assay has been clinically validated and recommended for use in patients
+      with ER+, node-negative (N0) EBC to assess the 10-year risk of distant disease
+      recurrence and predict the likelihood of response to adjuvant chemotherapy. A
+      growing body of evidence from several large phase III clinical trials reports
+      similar findings in patients with ER+, N+ EBC. A systematic review of published
+      literature from key clinical trials that have used the 21-gene breast cancer
+      assay in patients with ER+, N+ EBC was performed. The Recurrence Score has been
+      shown to be an independent predictor of disease-free survival, overall survival, 
+      and distant recurrence-free interval in patients with ER+, N+ EBC. Outcomes from 
+      decision impact and health economics studies further indicate that the Recurrence
+      Score affects physician treatment recommendations equally in patients with N+ or 
+      N0 disease. It also indicates that a reduction in Recurrence Score–directed
+      chemotherapy is cost-effective. There is a large body of evidence to support the 
+      use of the 21-gene assay Recurrence Score in patients with N+ EBC. Use of this
+      assay could help guide treatment decisions for patients who are most likely to
+      receive benefit from chemotherapy.
+FAU - Brufsky, Adam M.
+AU  - Brufsky AM
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20140725
+PHST- 2014/07/25 [aheadofprint]
+TA  - Am J Clin Oncol
+JT  - American Journal of Clinical Oncology
+AID - 10.1097/COC.0000000000000086 [doi]
+SO  - Am J Clin Oncol. 2014 Aug;37(4):404-10. Epub 2014 Jul 25
+      doi:10.1097/COC.0000000000000086.
+
+PMC - PMC3876071
+PMID- 24304542
+IS  - 1422-0067 (Electronic)
+VI  - 14
+IP  - 12
+DP  - 2013 Dec
+TI  - Prognostic Discrimination Using a 70-Gene Signature among Patients with Estrogen 
+      Receptor-Positive Breast Cancer and an Intermediate 21-Gene Recurrence Score.
+PG  - 23685-99
+AB  - The Oncotype DX® recurrence score (RS) predictor has been clinically utilized to 
+      appropriately select adjuvant chemotherapy for patients with estrogen receptor
+      (ER)-positive early breast cancer. However, the selection of chemotherapy for
+      patients with intermediate RSs remains controversial. We assessed the prognostic 
+      value of a 70-gene signature (70GS) among patients with ER-positive breast cancer
+      and intermediate RSs. In addition, we sought to identify genes associated with
+      poor 70GS scores based on gene expression profiling (GEP). GEP was performed
+      using gene expression data from 186 patients with ER-positive breast cancer. The 
+      RS and 70GS score were calculated on the basis of GEP. Among 186 patients, 82
+      ER-positive patients with intermediate RSs were identified. These patients were
+      stratified by 70GS, overall survival (OS) significantly differed according to
+      70GS (p = 0.013). In a supervised hierarchical analysis according to 70GS, the
+      expression of several representative genes for cell proliferation was
+      significantly higher in the poor 70GS cluster than in the good 70GS cluster.
+      Furthermore, among these patients, FOXM1, AURKA, AURKB, and BIRC5 displayed
+      prognostic significance for OS. In conclusion, 70GS can help to discriminate
+      survival differences among ER-positive patients with intermediate RSs. FOXM1,
+      AURKA, AURKB, and BIRC5, are associated with poor 70GS scores.
+FAU - Ahn, Sung Gwe
+AU  - Ahn SG
+AD  - Department of Surgery, Gananam Severance Hospital, Yonsei University College of
+      Medicine, Seoul 135720, Korea; E-Mails: asg2004@yuhs.ac (S.G.A.); harumy@yuhs.ac 
+      (H.M.L.); mfreak82@nate.com (H.W.L.)
+FAU - Lee, Hak Min
+AU  - Lee HM
+AD  - Department of Surgery, Gananam Severance Hospital, Yonsei University College of
+      Medicine, Seoul 135720, Korea; E-Mails: asg2004@yuhs.ac (S.G.A.); harumy@yuhs.ac 
+      (H.M.L.); mfreak82@nate.com (H.W.L.)
+FAU - Lee, Hak Woo
+AU  - Lee HW
+AD  - Department of Surgery, Gananam Severance Hospital, Yonsei University College of
+      Medicine, Seoul 135720, Korea; E-Mails: asg2004@yuhs.ac (S.G.A.); harumy@yuhs.ac 
+      (H.M.L.); mfreak82@nate.com (H.W.L.)
+FAU - Lee, Seung Ah
+AU  - Lee SA
+AD  - Department of Surgery, Eulji General Hospital, Eulji University College of
+      Medicine, Seoul 139872, Korea; E-Mail: seungah@eulji.ac.kr
+FAU - Lee, Se-Ra
+AU  - Lee SR
+AD  - Department of Biology, College of Natural Science, Dong-A University; Busan
+      604714, Korea; E-Mails: lsr2215@daum.net (S.-R.L.); shleem@dau.ac.kr (S.-H.L.)
+FAU - Leem, Sun-Hee
+AU  - Leem SH
+AD  - Department of Biology, College of Natural Science, Dong-A University; Busan
+      604714, Korea; E-Mails: lsr2215@daum.net (S.-R.L.); shleem@dau.ac.kr (S.-H.L.)
+FAU - Jeong, Joon
+AU  - Jeong J
+AD  - Department of Surgery, Gananam Severance Hospital, Yonsei University College of
+      Medicine, Seoul 135720, Korea; E-Mails: asg2004@yuhs.ac (S.G.A.); harumy@yuhs.ac 
+      (H.M.L.); mfreak82@nate.com (H.W.L.)
+FAU - Chu, In-Sun
+AU  - Chu IS
+AD  - Korean Bioinformation Center, Korea Research Institute of Bioscience and
+      Biotechnology, Daejon 305806, Korea; E-Mail: chu@kribb.re.kr
+LA  - eng
+PT  - Journal Article
+DEP - 20131204
+PHST- 2013/08/30 [received]
+PHST- 2013/11/15 [revised]
+PHST- 2013/11/19 [accepted]
+TA  - Int J Mol Sci
+JT  - International Journal of Molecular Sciences
+AID - 10.3390/ijms141223685 [doi]
+AID - ijms-14-23685 [pii]
+SO  - Int J Mol Sci. 2013 Dec 04;14(12):23685-99. doi:10.3390/ijms141223685.
+
+PMC - PMC3706725
+PMID- 23801158
+IS  - 0167-6806 (Print)
+IS  - 1573-7217 (Electronic)
+VI  - 140
+IP  - 1
+DP  - 2013 Jul
+TI  - The impact of the 21-gene Recurrence Score assay on clinical decision-making in
+      node-positive (up to 3 positive nodes) estrogen receptor-positive breast cancer
+      patients.
+PG  - 83-92
+AB  - Oncotype DX testing is reimbursed in Israel for node-negative and node-positive
+      (N1+; up to 3 positive nodes including micrometastases), estrogen receptor
+      positive (ER+), breast cancer patients. This retrospective study evaluated the
+      impact of Oncotype DX testing on treatment decisions in N1+/ER+ breast cancer
+      patients. To this end, we compared treatments for all N+ patients for whom
+      testing had been ordered with treatments for patients with similar
+      characteristics where the test had not been available. The retrospective analysis
+      included 951 patients (282 Oncotype DX, 669 controls), all of whom received
+      endocrine therapy with or without chemotherapy. In Oncotype DX patients, 7.1,
+      37.0, and 100 % of those with low, intermediate, and high Recurrence Score
+      results (Oncotype DX summary score) received chemotherapy, respectively
+      (P < 0.0001, all comparisons). Chemotherapy use was lower in Oncotype DX patients
+      versus controls (24.5 vs. 70.1 %). In a multivariate logistic regression analysis
+      in which the probability of receiving chemotherapy was modeled as a function of
+      Oncotype DX testing, age, tumor size, tumor grade, nodal status, and the
+      interactions between Oncotype DX testing and the other covariates, Oncotype DX
+      testing was associated with significantly lower odds of receiving chemotherapy
+      (odds ratio 0.16; 95 % CI 0.11–0.24; P < 0.0001). In summary, our findings
+      suggest that Oncotype DX testing has a significant impact on reducing
+      chemotherapy use in N1+/ER+ breast cancer patients in Israel.
+FAU - Stemmer, Salomon M.
+AU  - Stemmer SM
+AD  - Institute of Oncology, Davidoff Center, Rabin Medical Center, Petah Tikva,
+      Affiliated with the Sackler Faculty of Medicine, 39 Jabotinski St., Petah Tikva, 
+      Israel
+FAU - Klang, Shmuel H.
+AU  - Klang SH
+AD  - Clalit Health Services, 101 Arlozorov St., Tel Aviv, Israel
+FAU - Ben-Baruch, Noa
+AU  - Ben-Baruch N
+AD  - Kaplan Medical Center, Pasternak St, P.O.B 1, Rehovot, Israel
+FAU - Geffen, David B.
+AU  - Geffen DB
+AD  - Soroka University Medical Center and Ben-Gurion University of the Negev, Reger
+      St., Be’er Sheva, Israel
+FAU - Steiner, Mariana
+AU  - Steiner M
+AD  - Carmel Hospital, 7 Michal St., Haifa, Israel
+FAU - Soussan-Gutman, Lior
+AU  - Soussan-Gutman L
+AD  - Teva Pharmaceutical Industries Ltd, 12 Hatrufa St., Sapir Industrial Area
+      Netanya, Israel
+FAU - Merling, Shahar
+AU  - Merling S
+AD  - Clalit Health Services, 101 Arlozorov St., Tel Aviv, Israel
+FAU - Svedman, Christer
+AU  - Svedman C
+AD  - Genomic Health Inc, 301 Penobscot Drive, Redwood City, CA USA
+FAU - Rizel, Shulamith
+AU  - Rizel S
+AD  - Institute of Oncology, Davidoff Center, Rabin Medical Center, Petah Tikva,
+      Affiliated with the Sackler Faculty of Medicine, 39 Jabotinski St., Petah Tikva, 
+      Israel
+FAU - Lieberman, Nicky
+AU  - Lieberman N
+AD  - Clalit Health Services, 101 Arlozorov St., Tel Aviv, Israel
+LA  - eng
+PT  - Journal Article
+DEP - 20130626
+PHST- 2013/04/09 [received]
+PHST- 2013/06/08 [accepted]
+TA  - Breast Cancer Res Treat
+JT  - Breast Cancer Research and Treatment
+AID - 2603 [pii]
+AID - 10.1007/s10549-013-2603-1 [doi]
+SO  - Breast Cancer Res Treat. 2013 Jul;140(1):83-92. Epub 2013 Jun 26
+      doi:10.1007/s10549-013-2603-1.
+
+PMC - PMC3710166
+PMID- 23942918
+IS  - 1554-7477 (Print)
+IS  - 1935-469X (Electronic)
+VI  - 9
+IP  - 4
+DP  - 2013 Jul
+TI  - Evaluating Use Characteristics for the Oncotype Dx 21-Gene Recurrence Score and
+      Concordance With Chemotherapy Use in Early-Stage Breast Cancer.
+PG  - 182-7
+AB  - Patients who are younger, have better ECOG performance status, or have higher
+      grade tumors are more likely to undergo recurrence score testing.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Chen, Clara
+AU  - Chen C
+AD  - McKesson Specialty Health, The Woodlands; Texas Oncology, Austin, TX; and Rocky
+      Mountain Cancer Center, Greenwood Village, CO
+FAU - Dhanda, Rahul
+AU  - Dhanda R
+AD  - McKesson Specialty Health, The Woodlands; Texas Oncology, Austin, TX; and Rocky
+      Mountain Cancer Center, Greenwood Village, CO
+FAU - Tseng, Wan-Yu
+AU  - Tseng WY
+AD  - McKesson Specialty Health, The Woodlands; Texas Oncology, Austin, TX; and Rocky
+      Mountain Cancer Center, Greenwood Village, CO
+FAU - Forsyth, Michael
+AU  - Forsyth M
+AD  - McKesson Specialty Health, The Woodlands; Texas Oncology, Austin, TX; and Rocky
+      Mountain Cancer Center, Greenwood Village, CO
+FAU - Patt, Debra A.
+AU  - Patt DA
+AD  - McKesson Specialty Health, The Woodlands; Texas Oncology, Austin, TX; and Rocky
+      Mountain Cancer Center, Greenwood Village, CO
+LA  - eng
+PT  - Journal Article
+DEP - 20130212
+PHST- 2013/02/12 [aheadofprint]
+TA  - J Oncol Pract
+JT  - Journal of Oncology Practice
+AID - 3818996 [pii]
+AID - 10.1200/JOP.2012.000638 [doi]
+SO  - J Oncol Pract. 2013 Jul;9(4):182-7. Epub 2013 Feb 12 doi:10.1200/JOP.2012.000638.
+
+PMC - PMC3574549
+PMID- 23136233
+IS  - 0923-7534 (Print)
+IS  - 1569-8041 (Electronic)
+VI  - 24
+IP  - 3
+DP  - 2013 Mar
+TI  - The 21-gene recurrence score assay impacts adjuvant therapy recommendations for
+      ER-positive, node-negative and node-positive early breast cancer resulting in a
+      risk-adapted change in chemotherapy use.
+PG  - 618-24
+AB  - Background: We carried out a prospective clinical study to evaluate the impact of
+      the Recurrence Score (RS) on treatment decisions in early breast cancer (EBC).
+      Patients and methods: A total of 379 eligible women with estrogen receptor
+      positive (ER+), HER2-negative EBC and 0–3 positive lymph nodes were enrolled.
+      Treatment recommendations, patients' decisional conflict, physicians' confidence 
+      before and after knowledge of the RS and actual treatment data were recorded.
+      Results: Of the 366 assessable patients 244 were node negative (N0) and 122 node 
+      positive (N+). Treatment recommendations changed in 33% of all patients (N0 30%, 
+      N+ 39%). In 38% of all patients (N0 39%, N+ 37%) with an initial recommendation
+      for chemoendocrine therapy, the post-RS recommendation changed to endocrine
+      therapy, in 25% (N0 22%, N+ 39%) with an initial recommendation for endocrine
+      therapy only to combined chemoendocrine therapy, respectively. A patients'
+      decisional conflict score improved by 6% (P = 0.028) and physicians' confidence
+      increased in 45% (P < 0.001) of all cases. Overall, 33% (N0 29%, N+ 38%) of fewer
+      patients actually received chemotherapy as compared with patients recommended
+      chemotherapy pre-test. Using the test was cost-saving versus current clinical
+      practice. Conclusion: RS-guided chemotherapy decision-making resulted in a
+      substantial modification of adjuvant chemotherapy usage in node-negative and
+      node-positive ER+ EBC.
+FAU - Eiermann, W.
+AU  - Eiermann W
+AD  - Interdisciplinary Oncology Center, Munich
+FAU - Rezai, M.
+AU  - Rezai M
+AD  - Breast Center, Luisen-Hospital, Düsseldorf
+FAU - Kümmel, S.
+AU  - Kümmel S
+AD  - Senology Breast Care Center, Clinic Essen-Mitte, Essen
+FAU - Kühn, T.
+AU  - Kühn T
+AD  - Department of Gynceology and Obstetrics, Esslingen Hospital, Esslingen
+FAU - Warm, M.
+AU  - Warm M
+AD  - Department of Gynecology and Obstetrics, Holweide Hospital, Cologne
+FAU - Friedrichs, K.
+AU  - Friedrichs K
+AD  - Breast Center, Hamburg
+FAU - Schneeweiss, A.
+AU  - Schneeweiss A
+AD  - Section of Gynecological Oncology, National Center for Tumor Diseases University 
+      Hospital, Heidelberg
+FAU - Markmann, S.
+AU  - Markmann S
+AD  - Department of Gynecology and Obstetrics, University Hospital, Rostock
+FAU - Eggemann, H.
+AU  - Eggemann H
+AD  - Department of Gynecology and Obstetrics, University Hospital, Magdeburg
+FAU - Hilfrich, J.
+AU  - Hilfrich J
+AD  - Eilenriede Hospital, Hanover
+FAU - Jackisch, C.
+AU  - Jackisch C
+AD  - Department of Obstetrics and Gynecology and Breast center, Offenbach Hospital,
+      Offenbach
+FAU - Witzel, I.
+AU  - Witzel I
+AD  - Department of Gynecology, University Medical Center Hamburg-Eppendorf, Hamburg
+FAU - Eidtmann, H.
+AU  - Eidtmann H
+AD  - Department of Gynecology and Obstetrics, University Hospital, Kiel
+FAU - Bachinger, A.
+AU  - Bachinger A
+AD  - Department of Biometrics, ClinAssess GmbH, Leverkusen
+FAU - Hell, S.
+AU  - Hell S
+AD  - Medical Affairs Consulting, Speyer and
+FAU - Blohmer, J.
+AU  - Blohmer J
+AD  - Department of Gynecology and Obstetrics, Sankt Gertrauden Hospital, Berlin,
+      Germany
+LA  - eng
+PT  - Journal Article
+DEP - 20121107
+PHST- 2012/04/27 [received]
+PHST- 2012/08/16 [revised]
+PHST- 2012/08/23 [accepted]
+PHST- 2012/11/07 [aheadofprint]
+TA  - Ann Oncol
+JT  - Annals of Oncology
+AID - 10.1093/annonc/mds512 [doi]
+AID - mds512 [pii]
+SO  - Ann Oncol. 2013 Mar;24(3):618-24. Epub 2012 Nov 7 doi:10.1093/annonc/mds512.
+
+PMC - PMC3488327
+PMID- 23031196
+IS  - 1471-2407 (Electronic)
+VI  - 12
+DP  - 2012
+TI  - Cost-effectiveness of a 21-gene recurrence score assay versus Canadian clinical
+      practice in women with early-stage estrogen- or progesterone-receptor-positive,
+      axillary lymph-node negative breast cancer.
+PG  - 447
+AB  - Background: A 21-gene recurrence score (RS) assay may inform adjuvant systematic 
+      treatment decisions in women with early stage breast cancer. We sought to
+      investigate the cost effectiveness of using the RS-assay versus current clinical 
+      practice (CCP) in women with early-stage estrogen- or
+      progesterone-receptor-positive, axilliary lymph-node negative breast cancer (ER+/
+      PR + LN- ESBC) from the perspective of the Canadian public healthcare system.
+      Methods: We developed a Markov model to project the lifetime clinical and
+      economic consequences of ESBC. We evaluated adjuvant therapy separately in post- 
+      and pre-menopausal women with ER+/ PR + LN- ESBC. We assumed that the RS-assay
+      would reclassify pre- and post-menopausal women among risk levels (low,
+      intermediate and high) and guide adjuvant systematic treatment decisions. The
+      model was parameterized using 7 year follow up data from the Manitoba Cancer
+      Registry, cost data from Manitoba administrative databases, and secondary
+      sources. Costs are presented in 2010 CAD. Future costs and benefits were
+      discounted at 5%. Results: The RS-assay compared to CCP generated cost-savings in
+      pre-menopausal women and had an ICER of $60,000 per QALY gained in
+      post-menopausal women. The cost effectiveness was most sensitive to the
+      proportion of women classified as intermediate risk by the RS-assay who receive
+      adjuvant chemotherapy and the risk of relapse in the RS-assay model. Conclusions:
+      The RS-assay is likely to be cost effective in the Canadian healthcare system and
+      should be considered for adoption in women with ER+/ PR + LN- ESBC. However,
+      ongoing assessment and validation of the assay in real-world clinical practice is
+      warranted.
+FAU - Hannouf, Malek B
+AU  - Hannouf MB
+AD  - Department of Epidemiology and Biostatistics. Schulich School of Medicine and
+      Dentistry, University of Western Ontario, London, Canada
+FAU - Xie, Bin
+AU  - Xie B
+AD  - Department of Obstetrics & Gynaecology, Schulich School of Medicine and
+      Dentistry, University of Western Ontario, London, Canada
+FAU - Brackstone, Muriel
+AU  - Brackstone M
+AD  - Department of Oncology, Schulich School of Medicine and Dentistry, University of 
+      Western Ontario, London, Canada
+FAU - Zaric, Gregory S
+AU  - Zaric GS
+AD  - Department of Epidemiology and Biostatistics. Schulich School of Medicine and
+      Dentistry, University of Western Ontario, London, Canada
+LA  - eng
+PT  - Journal Article
+DEP - 20121002
+PHST- 2011/12/06 [received]
+PHST- 2012/09/23 [accepted]
+TA  - BMC Cancer
+JT  - BMC Cancer
+AID - 1471-2407-12-447 [pii]
+AID - 10.1186/1471-2407-12-447 [doi]
+SO  - BMC Cancer. 2012 Oct 2;12:447. doi:10.1186/1471-2407-12-447.
+
+PMC - PMC3743447
+PMID- 22975761
+IS  - 1098-3600 (Print)
+IS  - 1530-0366 (Electronic)
+VI  - 15
+IP  - 3
+DP  - 2013 Mar
+TI  - Cost-Effectiveness of the 21-Gene Recurrence Score Assay in the Context of
+      Multifactorial Decision Making to Guide Chemotherapy for Early-Stage Breast
+      Cancer.
+PG  - 203-11
+AB  - Purpose: New evidence is available regarding the utility of the 21-gene
+      Recurrence Score (RS) assay in guiding chemotherapy use for node-negative,
+      estrogen receptor–positive breast cancer. We applied this evidence in a
+      decision-analytic model to reevaluate the cost-effectiveness of the assay.
+      Methods: We cross-classified patients by clinicopathologic characteristics from
+      the Adjuvant! risk index and by RS risk group. For non–RS-guided treatment, we
+      assumed patients receiving hormonal therapy alone had low-risk characteristics
+      and patients receiving chemotherapy and hormonal therapy had higher-risk
+      characteristics. For RS-guided treatment, we assigned chemotherapy probabilities 
+      conditional on RS risk group and clinicopathologic characteristics. Results: An
+      estimated 40.4% of patients in the RS-guided strategy and 47.3% in the
+      non–RS-guided strategy were expected to receive chemotherapy. The incremental
+      gain in quality-adjusted life-years (QALYs) was 0.16 (95% CI, 0.08 to 0.28) with 
+      the RS-guided strategy. Lifetime medical costs to the health system were $2692
+      ($1546 to $3821) higher with the RS-guided strategy, for an incremental
+      cost-effectiveness ratio of $16,677/QALY ($7613 to $37,219). From a societal
+      perspective, the incremental cost-effectiveness was $10,788/QALY ($6840 to
+      $30,265). Conclusion: The findings provide supportive evidence for the economic
+      value of the 21-gene RS assay in node-negative, estrogen receptor–positive breast
+      cancer.
+FAU - Reed, Shelby D.
+AU  - Reed SD
+FAU - Dinan, Michaela A.
+AU  - Dinan MA
+FAU - Schulman, Kevin A.
+AU  - Schulman KA
+FAU - Lyman, Gary H.
+AU  - Lyman GH
+LA  - eng
+PT  - Journal Article
+DEP - 20120913
+GR  - UC2 CA148041 || CA
+TA  - Genet Med
+JT  - Genetics in medicine : official journal of the American College of Medical
+      Genetics
+AID - 10.1038/gim.2012.119 [doi]
+MID - NIHMS489800
+SO  - Genet Med. 2013 Mar;15(3):203-11. Epub 2012 Sep 13 doi:10.1038/gim.2012.119.
+
+PMC - PMC3413972
+PMID- 22899924
+IS  - 1687-8558 (Print)
+IS  - 1687-8566 (Electronic)
+VI  - 2012
+DP  - 2012
+TI  - Psychosocial and Quality of Life in Women Receiving the 21-Gene Recurrence Score 
+      Assay: The Impact of Decision Style in Women with Intermediate RS.
+LID - 728290
+AB  - Multigene assays such as the 21-gene recurrence score (RS) quantify risk for
+      recurrence and potential benefit from chemotherapy in early-stage, ER+ breast
+      cancers. Few studies have assessed the impact of testing on patient-reported
+      outcomes such as cancer-related distress or quality of life. The few studies that
+      have assessed these outcomes do not consider potential modifiers, such as the
+      patients' level of involvement in the treatment decision-making process. In the
+      current study, 81 breast cancer patients who received the RS assay completed
+      cross-sectional surveys. We used linear multiple regression to assess whether
+      test result, decision-making role (passive versus shared/active), and their
+      interaction contributed to current levels of distress, quality of life, and
+      decisional conflict. There were no associations between these variables and test 
+      result or decision-making role. However, women who received an intermediate RS
+      and took a passive role in their care reported higher-cancer-related distress and
+      cancer worry and lower quality of life than those who took a shared or active
+      role. These data should be confirmed in prospective samples, as these poorer
+      outcomes could be amenable to intervention.
+FAU - Sulayman, Nadiyah
+AU  - Sulayman N
+FAU - Spellman, Elizabeth
+AU  - Spellman E
+FAU - Graves, Kristi D.
+AU  - Graves KD
+FAU - Peshkin, Beth N.
+AU  - Peshkin BN
+FAU - Isaacs, Claudine
+AU  - Isaacs C
+FAU - Schwartz, Marc D.
+AU  - Schwartz MD
+FAU - O'Neill, Suzanne C.
+AU  - O'Neill SC
+LA  - eng
+PT  - Journal Article
+DEP - 20120730
+PHST- 2012/03/23 [received]
+PHST- 2012/06/07 [revised]
+PHST- 2012/06/12 [accepted]
+PHST- 2012/07/30 [aheadofprint]
+TA  - J Cancer Epidemiol
+JT  - Journal of Cancer Epidemiology
+AID - 10.1155/2012/728290 [doi]
+SO  - J Cancer Epidemiol. 2012;2012:. Epub 2012 Jul 30 doi:10.1155/2012/728290.
+
+PMC - PMC3552372
+PMID- 22547108
+IS  - 0167-6806 (Print)
+IS  - 1573-7217 (Electronic)
+VI  - 134
+IP  - 2
+DP  - 2012 Jul
+TI  - Prognostic value of biologic subtype and the 21-gene recurrence score relative to
+      local recurrence after breast conservation treatment with radiation for early
+      stage breast carcinoma: results from the Eastern Cooperative Oncology Group E2197
+      study.
+PG  - 683-92
+AB  - The present study was performed to evaluate the significance of biologic subtype 
+      and 21-gene recurrence score relative to local recurrence and local–regional
+      recurrence after breast conservation treatment with radiation. Eastern
+      Cooperative Oncology Group E2197 was a prospective randomized clinical trial that
+      compared two adjuvant systemic chemotherapy regimens for patients with operable
+      breast carcinoma with 1–3 positive lymph nodes or negative lymph nodes with tumor
+      size >1.0 cm. The study population was a subset of 388 patients with known
+      21-gene recurrence score and treated with breast conservation surgery, systemic
+      chemotherapy, and definitive radiation treatment. Median follow-up was 9.7 years 
+      (range = 3.7–11.6 years). The 10-year rates of local recurrence and
+      local–regional recurrence were 5.4 % and 6.6 %, respectively. Neither biologic
+      subtype nor 21-gene Recurrence Score was associated with local recurrence or
+      local–regional recurrence on univariate or multivariate analyses (all P ≥ 0.12). 
+      The 10-year rates of local recurrence were 4.9 % for hormone receptor positive,
+      HER2-negative tumors, 6.0 % for triple negative tumors, and 6.4 % for
+      HER2-positive tumors (P = 0.76), and the 10-year rates of local–regional
+      recurrence were 6.3, 6.9, and 7.2 %, respectively (P = 0.79). For hormone
+      receptor positive tumors, the 10-year rates of local recurrence were 3.2, 2.9,
+      and 10.1 % for low, intermediate, and high 21-gene recurrence score, respectively
+      (P = 0.17), and the 10-year rates of local–regional recurrence were 3.8, 5.1, and
+      12.0 %, respectively (P = 0.12). For hormone receptor- positive tumors, the
+      21-gene recurrence score evaluated as a continuous variable was significant for
+      local–regional recurrence (hazard ratio 2.66; P = 0.03). The 10-year rates of
+      local recurrence and local–regional recurrence were reasonably low in all subsets
+      of patients. Neither biologic subtype nor 21-gene recurrence score should
+      preclude breast conservation treatment with radiation.
+FAU - Solin, Lawrence J.
+AU  - Solin LJ
+AD  - Department of Radiation Oncology, Albert Einstein Medical Center, 5501 Old York
+      Road, Philadelphia, PA 19141, USA
+FAU - Gray, Robert
+AU  - Gray R
+AD  - The Dana-Farber Cancer Institute, Boston, MA, USA. Eastern Cooperative Oncology
+      Group Coordinating Center, Boston, MA, USA
+FAU - Goldstein, Lori J.
+AU  - Goldstein LJ
+AD  - Department of Medical Oncology, Fox Chase Cancer Center, Philadelphia, PA, USA
+FAU - Recht, Abram
+AU  - Recht A
+AD  - Department of Radiation Oncology, Beth Israel Deaconess Medical Center, Boston,
+      MA, USA
+FAU - Baehner, Frederick L.
+AU  - Baehner FL
+AD  - Genomic Health, Inc., Redwood City, CA, USA
+FAU - Shak, Steven
+AU  - Shak S
+AD  - Genomic Health, Inc., Redwood City, CA, USA
+FAU - Badve, Sunil
+AU  - Badve S
+AD  - Department of Pathology, Indiana University, Indianapolis, IN, USA
+FAU - Perez, Edith A.
+AU  - Perez EA
+AD  - Mayo Clinic, Jacksonville, FL, USA
+FAU - Shulman, Lawrence N.
+AU  - Shulman LN
+AD  - The Dana-Farber Cancer Institute, Boston, MA, USA
+FAU - Martino, Silvana
+AU  - Martino S
+AD  - The Angeles Clinic and Research Institute, Santa Monica, CA, USA
+FAU - Davidson, Nancy E.
+AU  - Davidson NE
+AD  - University of Pittsburgh Cancer Institute, Pittsburgh, PA, USA
+FAU - Sledge, George W.
+AU  - Sledge GW
+AD  - Department of Medical Oncology, Indiana University, Indianapolis, IN, USA
+FAU - Sparano, Joseph A.
+AU  - Sparano JA
+AD  - Department of Medical Oncology, Montefiore Medical Center, Albert Einstein
+      College of Medicine, New York, NY, USA
+LA  - eng
+PT  - Journal Article
+DEP - 20120501
+GR  - U10 CA066636 || CA
+TA  - Breast Cancer Res Treat
+JT  - Breast cancer research and treatment
+AID - 10.1007/s10549-012-2072-y [doi]
+MID - NIHMS397764
+SO  - Breast Cancer Res Treat. 2012 Jul;134(2):683-92. Epub 2012 May 01
+      doi:10.1007/s10549-012-2072-y.
+
+PMC - PMC3348969
+PMID- 22504492
+IS  - 0031-9384 (Print)
+IS  - 1873-507X (Electronic)
+VI  - 106
+IP  - 4
+DP  - 2012 Jun 25
+TI  - Macronutrient choice of BTBR.NZW mice congenic for a 21-gene region of chromosome
+      17.
+PG  - 556-61
+AB  - There has been scant work to investigate the mechanisms influencing macronutrient
+      selection by mice. Here, we measured the consumption and choice of carbohydrate- 
+      and fat-containing diets by NZW/LacJ (NZW) and BTBR/T+ tf/J (BTBR) strains. We
+      found that NZW mice voluntarily ate more carbohydrate and less fat than did BTBR 
+      mice. Mice with a BTBR background and a heterozygous (BTBR/NZW) congenic region
+      on chromosome 17 between 25.7 – 27.5 Mb (N10 generation) or 26.7 – 27.5 Mb (N12
+      generation) also ate more carbohydrate and less fat than did homozygous
+      (BTBR/BTBR) littermate controls. Of the 21 known and predicted genes in the
+      congenic interval between 26.7 – 27.5 Mb, we raise for consideration as a
+      causative candidate Itpr3, the inositol triphosphate receptor type 3 gene, which 
+      is a component of the GPCR-mediated taste transduction cascade. We speculate that
+      a mutation in Itpr3 influences food choice by impairing the detection of
+      nutrients in the macronutrient-containing diets.
+FAU - Tordoff, Michael G.
+AU  - Tordoff MG
+FAU - Jaji, Samira A.
+AU  - Jaji SA
+FAU - Marks, Jacob M.
+AU  - Marks JM
+FAU - Ellis, Hillary T.
+AU  - Ellis HT
+LA  - eng
+PT  - Journal Article
+DEP - 20120404
+GR  - R01 DK046791-17 || DK
+TA  - Physiol Behav
+JT  - Physiology & behavior
+AID - 10.1016/j.physbeh.2012.03.030 [doi]
+MID - NIHMS368345
+SO  - Physiol Behav. 2012 Jun 25;106(4):556-61. Epub 2012 Apr 04
+      doi:10.1016/j.physbeh.2012.03.030.
+
+PMC - PMC3336833
+PMID- 22418568
+IS  - 1083-7159 (Print)
+IS  - 1549-490X (Electronic)
+VI  - 17
+IP  - 4
+DP  - 2012 Apr
+TI  - Agreement in Risk Prediction Between the 21-Gene Recurrence Score Assay (Oncotype
+      DX®) and the PAM50 Breast Cancer Intrinsic Classifier™ in Early-Stage Estrogen
+      Receptor–Positive Breast Cancer.
+PG  - 492-8
+AB  - Risk assignment in breast cancer patients using the PAM50 Breast Cancer Intrinsic
+      Classifier™ and the Oncotype DX® Recurrence Score in the same population was
+      compared. There is good agreement between the two assays for high and low
+      prognostic risk assignment but PAM50 assigns more patients to the low risk
+      category. About half of the intermediate risk RS group was reclassified as low
+      risk luminal A by PAM50, which suggests a potential complementary use for the
+      assays.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Kelly, Catherine M.
+AU  - Kelly CM
+AD  - Department of Medical Oncology, Mater Misericordiae University Hospital, Dublin, 
+      Ireland;
+FAU - Bernard, Philip S.
+AU  - Bernard PS
+AD  - Department of Pathology, University of Utah Health Sciences Center, Salt Lake
+      City, Utah, USA;
+FAU - Krishnamurthy, Savitri
+AU  - Krishnamurthy S
+AD  - Department of Breast Pathology, Division of Cancer Medicine, The University of
+      Texas, MD Anderson Cancer Center, Houston, Texas, USA;
+FAU - Wang, Bailiang
+AU  - Wang B
+AD  - Department of Breast Medical Oncology and
+FAU - Ebbert, Mark T.W.
+AU  - Ebbert MT
+AD  - Department of Pathology, University of Utah Health Sciences Center, Salt Lake
+      City, Utah, USA;
+FAU - Bastien, Roy R.L.
+AU  - Bastien RR
+AD  - Department of Pathology, University of Utah Health Sciences Center, Salt Lake
+      City, Utah, USA;
+FAU - Boucher, Kenneth M.
+AU  - Boucher KM
+AD  - Department of Oncological Sciences, Huntsman Cancer Institute, University of
+      Utah, Salt Lake City, Utah, USA
+FAU - Young, Elliana
+AU  - Young E
+AD  - Department of Breast Medical Oncology and
+FAU - Iwamoto, Takayuki
+AU  - Iwamoto T
+AD  - Department of Breast Medical Oncology and
+FAU - Pusztai, Lajos
+AU  - Pusztai L
+AD  - Department of Breast Medical Oncology and
+LA  - eng
+PT  - Journal Article
+DEP - 20120314
+PHST- 2012/01/05 [received]
+PHST- 2012/02/08 [accepted]
+PHST- 2012/03/14 [aheadofprint]
+TA  - Oncologist
+JT  - The Oncologist
+AID - 3766240 [pii]
+AID - 10.1634/theoncologist.2012-0007 [doi]
+SO  - Oncologist. 2012 Apr;17(4):492-8. Epub 2012 Mar 14
+      doi:10.1634/theoncologist.2012-0007.
+
+PMC - PMC3228065
+PMID- 21934103
+IS  - 1083-7159 (Print)
+IS  - 1549-490X (Electronic)
+VI  - 16
+IP  - 10
+DP  - 2011 Oct
+TI  - Breast Medical Oncologists' Use of Standard Prognostic Factors to Predict a
+      21-Gene Recurrence Score.
+PG  - 1359-66
+AB  - The ability of oncologists to predict the Oncotype DX® recurrence score using
+      standard prognostic criteria is examined.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Kamal, Arif H.
+AU  - Kamal AH
+AD  - Division of Medical Oncology, Duke Comprehensive Cancer Center, Durham, North
+      Carolina, USA;
+FAU - Loprinzi, Charles L.
+AU  - Loprinzi CL
+AD  - Division of Medical Oncology,
+FAU - Reynolds, Carol
+AU  - Reynolds C
+AD  - Department of Pathology, and
+FAU - Dueck, Amylou C.
+AU  - Dueck AC
+AD  - Division of Biomedical Statistics and Informatics, Mayo Clinic Cancer Center,
+      Rochester, Minnesota, USA;
+FAU - Geiger, Xochiquetzal J.
+AU  - Geiger XJ
+AD  - Department of Pathology, Mayo Clinic–Florida, Jacksonville, Florida, USA;
+FAU - Ingle, James N.
+AU  - Ingle JN
+AD  - Division of Medical Oncology,
+FAU - Carlson, Robert W.
+AU  - Carlson RW
+AD  - Division of Medical Oncology, Stanford Comprehensive Cancer Center, Palo Alto,
+      California, USA;
+FAU - Hobday, Timothy J.
+AU  - Hobday TJ
+AD  - Division of Medical Oncology,
+FAU - Winer, Eric P.
+AU  - Winer EP
+AD  - Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+      Massachusetts, USA
+FAU - Goetz, Matthew P.
+AU  - Goetz MP
+AD  - Division of Medical Oncology,
+LA  - eng
+PT  - Journal Article
+DEP - 20110920
+PHST- 2011/02/23 [received]
+PHST- 2011/07/01 [accepted]
+PHST- 2011/09/20 [aheadofprint]
+TA  - Oncologist
+JT  - The Oncologist
+AID - 3722297 [pii]
+AID - 10.1634/theoncologist.2011-0048 [doi]
+SO  - Oncologist. 2011 Oct;16(10):1359-66. Epub 2011 Sep 20
+      doi:10.1634/theoncologist.2011-0048.
+
+PMC - PMC3051869
+PMID- 21731516
+IS  - 1554-7477 (Print)
+IS  - 1935-469X (Electronic)
+VI  - 7
+IP  - 2
+DP  - 2011 Mar
+TI  - Physician Survey of the Effect of the 21-Gene Recurrence Score Assay Results on
+      Treatment Recommendations for Patients With Lymph Node–Positive, Estrogen
+      Receptor–Positive Breast Cancer.
+PG  - 94-9
+AB  - This physician survey looks at the effect of the 21-gene recurrence score assay
+      results on adjuvant treatment recommendations for patients with lymph
+      node–positive, estrogen receptor–positive breast cancer.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Oratz, Ruth
+AU  - Oratz R
+AD  - New York University School of Medicine, New York, NY; Division of
+      Hematology-Oncology, Department of Medicine, and Department of Obstetrics and
+      Gynecology, David Geffen School of Medicine at University of California, Los
+      Angeles, Los Angeles; Pardee RAND Graduate School, RAND Corporation, Santa
+      Monica; Genomic Health, Redwood City; Partnership for Health Analytic Research,
+      Los Angeles, CA
+FAU - Kim, Benjamin
+AU  - Kim B
+AD  - New York University School of Medicine, New York, NY; Division of
+      Hematology-Oncology, Department of Medicine, and Department of Obstetrics and
+      Gynecology, David Geffen School of Medicine at University of California, Los
+      Angeles, Los Angeles; Pardee RAND Graduate School, RAND Corporation, Santa
+      Monica; Genomic Health, Redwood City; Partnership for Health Analytic Research,
+      Los Angeles, CA
+FAU - Chao, Calvin
+AU  - Chao C
+AD  - New York University School of Medicine, New York, NY; Division of
+      Hematology-Oncology, Department of Medicine, and Department of Obstetrics and
+      Gynecology, David Geffen School of Medicine at University of California, Los
+      Angeles, Los Angeles; Pardee RAND Graduate School, RAND Corporation, Santa
+      Monica; Genomic Health, Redwood City; Partnership for Health Analytic Research,
+      Los Angeles, CA
+FAU - Skrzypczak, Stanley
+AU  - Skrzypczak S
+AD  - New York University School of Medicine, New York, NY; Division of
+      Hematology-Oncology, Department of Medicine, and Department of Obstetrics and
+      Gynecology, David Geffen School of Medicine at University of California, Los
+      Angeles, Los Angeles; Pardee RAND Graduate School, RAND Corporation, Santa
+      Monica; Genomic Health, Redwood City; Partnership for Health Analytic Research,
+      Los Angeles, CA
+FAU - Ory, Caron
+AU  - Ory C
+AD  - New York University School of Medicine, New York, NY; Division of
+      Hematology-Oncology, Department of Medicine, and Department of Obstetrics and
+      Gynecology, David Geffen School of Medicine at University of California, Los
+      Angeles, Los Angeles; Pardee RAND Graduate School, RAND Corporation, Santa
+      Monica; Genomic Health, Redwood City; Partnership for Health Analytic Research,
+      Los Angeles, CA
+FAU - Bugarini, Roberto
+AU  - Bugarini R
+AD  - New York University School of Medicine, New York, NY; Division of
+      Hematology-Oncology, Department of Medicine, and Department of Obstetrics and
+      Gynecology, David Geffen School of Medicine at University of California, Los
+      Angeles, Los Angeles; Pardee RAND Graduate School, RAND Corporation, Santa
+      Monica; Genomic Health, Redwood City; Partnership for Health Analytic Research,
+      Los Angeles, CA
+FAU - Broder, Michael
+AU  - Broder M
+AD  - New York University School of Medicine, New York, NY; Division of
+      Hematology-Oncology, Department of Medicine, and Department of Obstetrics and
+      Gynecology, David Geffen School of Medicine at University of California, Los
+      Angeles, Los Angeles; Pardee RAND Graduate School, RAND Corporation, Santa
+      Monica; Genomic Health, Redwood City; Partnership for Health Analytic Research,
+      Los Angeles, CA
+LA  - eng
+PT  - Journal Article
+PHST- 2010/11/12 [accepted]
+TA  - J Oncol Pract
+JT  - Journal of Oncology Practice
+AID - 3677813 [pii]
+AID - 10.1200/JOP.2010.000046 [doi]
+SO  - J Oncol Pract. 2011 Mar;7(2):94-9. doi:10.1200/JOP.2010.000046.
+
+PMC - PMC4266581
+PMID- 21221771
+IS  - 0167-6806 (Print)
+IS  - 1573-7217 (Electronic)
+VI  - 127
+IP  - 1
+DP  - 2011 May
+TI  - Comparison of the Prognostic and Predictive Utilities of the 21-Gene Recurrence
+      Score Assay and Adjuvant! for Women with Node-Negative, ER-Positive Breast
+      Cancer: Results from NSABP B-14 and NSABP B-20.
+PG  - 133-42
+AB  - The Oncotype DX® Recurrence Score® (RS) is a validated genomic predictor of
+      outcome and response to adjuvant chemotherapy in ER-positive breast cancer.
+      Adjuvant! was developed using SEER registry data and results from the Early
+      Breast Cancer Clinical Trialists’ overview analyses to estimate outcome and
+      benefit from adjuvant hormonal therapy and chemotherapy. In this report we
+      compare the prognostic and predictive utility of these two tools in
+      node-negative, ER-positive breast cancer. RS and Adjuvant! results were available
+      from 668 tamoxifen-treated NSABP B-14 patients: 227 tamoxifen-treated NSABP B-20 
+      patients, and 424 chemotherapy-plus-tamoxifen-treated B-20 patients. Adjuvant!
+      results were also available from 1952 B-20 patients. The primary endpoint was
+      distant recurrence-free interval (DRFI). Cox proportional hazards models were
+      used to compare the prognostic and predictive utility of RS and Adjuvant!. Both
+      RS (p<0.001) and Adjuvant! (p=0.002) provided strong independent prognostic
+      information in tamoxifen-treated patients. Combining RS and individual
+      clinicopathologic characteristics provided greater prognostic discrimination than
+      combining RS and the composite Adjuvant!. In the B-20 cohort with RS results
+      (n=651), RS was significantly predictive of chemotherapy benefit (interaction
+      p=0.031 for DRFI, p=0.011 for overall survival [OS], p=0.082 for disease-free
+      survival [DFS]), but Adjuvant! was not (interaction p=0.99, p=0.311 and p=0.357, 
+      respectively). However, in the larger B-20 sub-cohort (n=1952), Adjuvant! was
+      significantly predictive of chemotherapy benefit for OS (interaction p=0.009) but
+      not for DRFI (p=0.219) or DFS (p=0.099). Prognostic estimates can be optimized by
+      combining RS and clinicopathologic information instead of simply combining RS and
+      Adjuvant!. RS should be used for estimating relative chemotherapy benefit.
+FAU - Tang, Gong
+AU  - Tang G
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+FAU - Shak, Steven
+AU  - Shak S
+AD  - Genomic Health Inc, Redwood City, CA
+FAU - Paik, Soonmyung
+AU  - Paik S
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+FAU - Anderson, Stewart J.
+AU  - Anderson SJ
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+FAU - Costantino, Joseph P.
+AU  - Costantino JP
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+FAU - Geyer, Charles E.
+AU  - Geyer CE
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+FAU - Mamounas, Eleftherios P.
+AU  - Mamounas EP
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+FAU - Wickerham, D. Lawrence
+AU  - Wickerham DL
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+FAU - Wolmark, Norman
+AU  - Wolmark N
+AD  - National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical
+      Centers, and Pathology Division, Pittsburgh, PA
+LA  - eng
+PT  - Journal Article
+DEP - 20110111
+TA  - Breast Cancer Res Treat
+JT  - Breast cancer research and treatment
+AID - 10.1007/s10549-010-1331-z [doi]
+MID - NIHMS395283
+SO  - Breast Cancer Res Treat. 2011 May;127(1):133-42. Epub 2011 Jan 11
+      doi:10.1007/s10549-010-1331-z.
+
+PMC - PMC2936466
+PMID- 21197187
+IS  - 1554-7477 (Print)
+IS  - 1935-469X (Electronic)
+VI  - 6
+IP  - 5
+DP  - 2010 Sep
+TI  - Coverage Policy Development for Personalized Medicine: Private Payer Perspectives
+      on Developing Policy for the 21-Gene Assay.
+PG  - 238-42
+AB  - A challenge of personalized medicine is the limited clinical evidence for many
+      personalized medicine technologies. Here, the strategies private payers use to
+      develop coverage policy for personalized medicine are described using the example
+      of the 21-gene assay in breast cancer.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Trosman, Julia R.
+AU  - Trosman JR
+AD  - Center for Business Models in Healthcare, Chicago, IL; University of California
+      San Francisco Center for Translational and Policy Research on Personalized
+      Medicine; and University of California San Francisco School of Pharmacy, San
+      Francisco, CA
+FAU - Van Bebber, Stephanie L.
+AU  - Van Bebber SL
+AD  - Center for Business Models in Healthcare, Chicago, IL; University of California
+      San Francisco Center for Translational and Policy Research on Personalized
+      Medicine; and University of California San Francisco School of Pharmacy, San
+      Francisco, CA
+FAU - Phillips, Kathryn A.
+AU  - Phillips KA
+AD  - Center for Business Models in Healthcare, Chicago, IL; University of California
+      San Francisco Center for Translational and Policy Research on Personalized
+      Medicine; and University of California San Francisco School of Pharmacy, San
+      Francisco, CA
+LA  - eng
+PT  - Journal Article
+PHST- 2010/08/03 [accepted]
+TA  - J Oncol Pract
+JT  - Journal of Oncology Practice
+AID - 3632443 [pii]
+AID - 10.1200/JOP.000075 [doi]
+SO  - J Oncol Pract. 2010 Sep;6(5):238-42. doi:10.1200/JOP.000075.
+
+PMC - PMC2952857
+PMID- 20494980
+IS  - 0305-1048 (Print)
+IS  - 1362-4962 (Electronic)
+VI  - 38
+IP  - 18
+DP  - 2010 Oct
+TI  - Functional analysis and identification of cis-regulatory elements of human
+      chromosome 21 gene promoters.
+PG  - 6112-23
+AB  - Given the inherent limitations of in silico studies relying solely on DNA
+      sequence analysis, the functional characterization of mammalian promoters and
+      associated cis-regulatory elements requires experimental support, which demands
+      cloning and analysis of putative promoter regions. Focusing on human chromosome
+      21, we cloned 182 gene promoters of 2500 bp in length and conducted reporter gene
+      assays on transfected-cell arrays. We found 56 promoters that were active in
+      HEK293 cells, while another 49 promoters could be activated by treatment of cells
+      with Trichostatin A or depletion of serum. We observed high correlations between 
+      promoter activities and endogenous transcript levels, RNA polymerase II
+      occupancy, CpG islands and core promoter elements. Truncation of a subset of 62
+      promoters to ∼500 bp revealed that truncation rarely resulted in loss of
+      activity, but rather in loss of responses to external stimuli, suggesting the
+      presence of cis-regulatory response elements within distal promoter regions. In
+      these regions, we found a strong enrichment of transcription factor binding sites
+      that could potentially activate gene expression in the presence of stimuli. This 
+      study illustrates the modular functional architecture of chromosome 21 promoters 
+      and helps to reveal the complex mechanisms governing transcriptional regulation.
+FAU - Warnatz, Hans-Jörg
+AU  - Warnatz HJ
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Querfurth, Robert
+AU  - Querfurth R
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Guerasimova, Anna
+AU  - Guerasimova A
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Cheng, Xi
+AU  - Cheng X
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Haas, Stefan A.
+AU  - Haas SA
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Hufton, Andrew L.
+AU  - Hufton AL
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Manke, Thomas
+AU  - Manke T
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Vanhecke, Dominique
+AU  - Vanhecke D
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Nietfeld, Wilfried
+AU  - Nietfeld W
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Vingron, Martin
+AU  - Vingron M
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Janitz, Michal
+AU  - Janitz M
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Lehrach, Hans
+AU  - Lehrach H
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+FAU - Yaspo, Marie-Laure
+AU  - Yaspo ML
+AD  - Department for Vertebrate Genomics, Department for Computational Molecular
+      Biology, Max Planck Institute for Molecular Genetics, Ihnestrasse 63-73, 14195
+      Berlin, Germany, Department of Biomedicine, University Basel, Mattenstrasse 28,
+      4058 Basel, Switzerland and School of Biotechnology and Biomolecular Sciences,
+      The University of New South Wales, Sydney NSW 2052, Australia
+LA  - eng
+PT  - Journal Article
+DEP - 20100521
+PHST- 2009/11/26 [received]
+PHST- 2010/04/29 [accepted]
+PHST- 2010/05/21 [aheadofprint]
+TA  - Nucleic Acids Res
+JT  - Nucleic Acids Research
+AID - 10.1093/nar/gkq402 [doi]
+AID - gkq402 [pii]
+SO  - Nucleic Acids Res. 2010 Oct;38(18):6112-23. Epub 2010 May 21
+      doi:10.1093/nar/gkq402.
+
+PMC - PMC3227976
+PMID- 20421266
+IS  - 1083-7159 (Print)
+IS  - 1549-490X (Electronic)
+VI  - 15
+IP  - 5
+DP  - 2010 May
+TI  - Review of the Clinical Studies Using the 21-Gene Assay.
+PG  - 447-56
+AB  - The literature supporting the prognostic and predictive ability of the 21-gene
+      assay in hormone receptor–positive, node-negative and node-positive breast cancer
+      patients in chemotherapy- and endocrine-treated and untreated populations is
+      reviewed.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Kelly, Catherine M.
+AU  - Kelly CM
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada
+FAU - Warner, Ellen
+AU  - Warner E
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada
+FAU - Tsoi, Daphne T.
+AU  - Tsoi DT
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada
+FAU - Verma, Sunil
+AU  - Verma S
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada
+FAU - Pritchard, Kathleen I.
+AU  - Pritchard KI
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada
+LA  - eng
+PT  - Journal Article
+DEP - 20100426
+PHST- 2009/11/09 [received]
+PHST- 2010/02/10 [accepted]
+PHST- 2010/04/26 [aheadofprint]
+TA  - Oncologist
+JT  - The Oncologist
+AID - 3587727 [pii]
+AID - 10.1634/theoncologist.2009-0277 [doi]
+SO  - Oncologist. 2010 May;15(5):447-56. Epub 2010 Apr 26
+      doi:10.1634/theoncologist.2009-0277.
+
+PMC - PMC3227972
+PMID- 20421264
+IS  - 1083-7159 (Print)
+IS  - 1549-490X (Electronic)
+VI  - 15
+IP  - 5
+DP  - 2010 May
+TI  - Cost-Effectiveness Analysis of Recurrence Score-Guided Treatment Using a 21-Gene 
+      Assay in Early Breast Cancer.
+PG  - 457-65
+AB  - This article develops a model to evaluate the cost-effectiveness of recurrence
+      score-guided treatment using 21-gene assay as compared with treatment guided by
+      the Adjuvant! Online program; the study concludes that the 21-gene assay appears 
+      to be cost effective from a Canadian health care perspective.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Tsoi, Daphne T.
+AU  - Tsoi DT
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada;
+FAU - Inoue, Miho
+AU  - Inoue M
+AD  - Division of Clinical Pharmacology and Toxicology, Hospital for Sick Children,
+      Toronto, Ontario, Canada
+FAU - Kelly, Catherine M.
+AU  - Kelly CM
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada;
+FAU - Verma, Sunil
+AU  - Verma S
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada;
+FAU - Pritchard, Kathleen I.
+AU  - Pritchard KI
+AD  - Division of Medical Oncology, Sunnybrook Odette Cancer Centre, The University of 
+      Toronto, Toronto, Ontario, Canada;
+LA  - eng
+PT  - Journal Article
+DEP - 20100426
+PHST- 2009/11/08 [received]
+PHST- 2010/03/25 [accepted]
+PHST- 2010/04/26 [aheadofprint]
+TA  - Oncologist
+JT  - The Oncologist
+AID - 3599072 [pii]
+AID - 10.1634/theoncologist.2009-0275 [doi]
+SO  - Oncologist. 2010 May;15(5):457-65. Epub 2010 Apr 26
+      doi:10.1634/theoncologist.2009-0275.
+
+PMC - PMC2849763
+PMID- 20065188
+IS  - 0732-183X (Print)
+IS  - 1527-7755 (Electronic)
+VI  - 28
+IP  - 10
+DP  - 2010 Apr 1
+TI  - Association Between the 21-Gene Recurrence Score Assay and Risk of Locoregional
+      Recurrence in Node-Negative, Estrogen Receptor–Positive Breast Cancer: Results
+      From NSABP B-14 and NSABP B-20.
+PG  - 1677-83
+AB  - Purpose: The 21-gene OncotypeDX recurrence score (RS) assay quantifies the risk
+      of distant recurrence in tamoxifen-treated patients with node-negative, estrogen 
+      receptor (ER)–positive breast cancer. We investigated the association between RS 
+      and risk for locoregional recurrence (LRR) in patients with node-negative,
+      ER-positive breast cancer from two National Surgical Adjuvant Breast and Bowel
+      Project (NSABP) trials (NSABP B-14 and B-20). Patients and Methods: RS was
+      available for 895 tamoxifen-treated patients (from both trials), 355
+      placebo-treated patients (from B-14), and 424 chemotherapy plus tamoxifen-treated
+      patients (from B-20). The primary end point was time to first LRR. Distant
+      metastases, second primary cancers, and deaths before LRR were censored. Results:
+      In tamoxifen-treated patients, LRR was significantly associated with RS risk
+      groups (P < .001). The 10-year Kaplan-Meier estimate of LRR was 4.% (95% CI, 2.3%
+      to 6.3%) for patients with a low RS (< 18), 7.2% (95% CI, 3.4% to 11.0%) for
+      those with intermediate RS (18-30), and 15.8% (95% CI, 10.4% to 21.2%) for those 
+      with a high RS (> 30). There were also significant associations between RS and
+      LRR in placebo-treated patients from B-14 (P = .022) and in chemotherapy plus
+      tamoxifen–treated patients from B-20 (P = .028). In multivariate analysis, RS was
+      an independent significant predictor of LRR along with age and type of initial
+      treatment. Conclusion: Similar to the association between RS and risk for distant
+      recurrence, a significant association exists between RS and risk for LRR. This
+      information has biologic consequences and potential clinical implications
+      relative to locoregional therapy decisions for patients with node-negative and
+      ER-positive breast cancer.
+FAU - Mamounas, Eleftherios P.
+AU  - Mamounas EP
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Tang, Gong
+AU  - Tang G
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Fisher, Bernard
+AU  - Fisher B
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Paik, Soonmyung
+AU  - Paik S
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Shak, Steven
+AU  - Shak S
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Costantino, Joseph P.
+AU  - Costantino JP
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Watson, Drew
+AU  - Watson D
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Geyer, Charles E.
+AU  - Geyer CE
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Wickerham, D. Lawrence
+AU  - Wickerham DL
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+FAU - Wolmark, Norman
+AU  - Wolmark N
+AD  - From the National Surgical Adjuvant Breast and Bowel Project Operations and
+      Biostatistical Centers; Department of Biostatistics, Graduate School of Public
+      Health; Department of Surgery, University of Pittsburgh; Allegheny General
+      Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; and Genomic
+      Health Inc, Redwood City, CA.
+LA  - eng
+PT  - Journal Article
+DEP - 20100111
+PHST- 2009/04/23 [received]
+PHST- 2009/10/01 [accepted]
+PHST- 2010/01/11 [aheadofprint]
+TA  - J Clin Oncol
+JT  - Journal of Clinical Oncology
+AID - 37610 [pii]
+AID - 10.1200/JCO.2009.23.7610 [doi]
+SO  - J Clin Oncol. 2010 Apr 1;28(10):1677-83. Epub 2010 Jan 11
+      doi:10.1200/JCO.2009.23.7610.
+
+PMC - PMC3058239
+PMID- 20005174
+IS  - 1470-2045 (Print)
+IS  - 1474-5488 (Electronic)
+VI  - 11
+IP  - 1
+DP  - 2010 Jan
+TI  - Prognostic and Predictive Value of the 21-Gene Recurrence Score Assay in a
+      Randomized Trial of Chemotherapy for Postmenopausal, Node-Positive, Estrogen
+      Receptor-Positive Breast Cancer.
+PG  - 55-65
+AB  - Background: The 21-gene Recurrence Score assay (RS) is prognostic for women with 
+      node-negative, estrogen receptor (ER)-positive breast cancer (BC) treated with
+      tamoxifen. A low RS predicts little benefit of chemotherapy. For node-positive
+      BC, we investigated whether RS was prognostic in women treated with tamoxifen
+      alone and whether it identified those who might not benefit from
+      anthracycline-based chemotherapy, despite higher recurrence risks. Methods: The
+      phase III trial S8814 for postmenopausal women with node-positive, ER-positive BC
+      showed that CAF chemotherapy prior to tamoxifen (CAF-T) added survival benefit to
+      tamoxifen alone. Optional tumor banking yielded specimens for RS determination by
+      RT-PCR. We evaluated the effect of RS on disease-free survival (DFS) by treatment
+      group (tamoxifen versus CAF-T) using Cox regression adjusting for number of
+      positive nodes. Findings: There were 367 specimens (40% of parent trial) with
+      sufficient RNA (tamoxifen, 148; CAF-T, 219). The RS was prognostic in the
+      tamoxifen arm (p=0.006). There was no CAF benefit in the low RS group (logrank
+      p=0.97; HR=1.02, 95% CI (0.54,1.93)), but major DFS improvement for the high RS
+      subset (logrank p=.03; HR=0.59, 95% CI (0.35, 1.01)), adjusting for number of
+      positive nodes. The RS-by-treatment interaction was significant in the first 5
+      years (p=0.029), with no additional prediction beyond 5 years (p=0.58), though
+      the cumulative benefit remained at 10 years. Results were similar for overall
+      survival and BC-specific survival. Interpretation: In this retrospective
+      analysis, the RS is prognostic for tamoxifen-treated patients with positive nodes
+      and predicts significant CAF benefit in tumors with a high RS. A low RS
+      identifies women who may not benefit from anthracycline-based chemotherapy
+      despite positive nodes.
+FAU - Albain, Kathy S.
+AU  - Albain KS
+AD  - Loyola University Chicago Stritch School of Medicine, Cardinal Bernardin Cancer
+      Center, Maywood, IL
+FAU - Barlow, William E.
+AU  - Barlow WE
+AD  - Southwest Oncology Group Statistical Center, Seattle, WA
+FAU - Shak, Steven
+AU  - Shak S
+AD  - Genomic Health, Inc., Redwood City, CA
+FAU - Hortobagyi, Gabriel N.
+AU  - Hortobagyi GN
+AD  - University of Texas MD Anderson Cancer Center, Houston, TX
+FAU - Livingston, Robert B.
+AU  - Livingston RB
+AD  - University of Arizona Cancer Center, Tucson, AZ
+FAU - Yeh, I-Tien
+AU  - Yeh IT
+AD  - University of Texas Health Science Center at San Antonio, San Antonio, TX
+FAU - Ravdin, Peter
+AU  - Ravdin P
+AD  - University of Texas Health Science Center at San Antonio, San Antonio, TX
+FAU - Bugarini, Roberto
+AU  - Bugarini R
+AD  - Genomic Health, Inc., Redwood City, CA
+FAU - Baehner, Frederick L.
+AU  - Baehner FL
+AD  - Genomic Health, Inc., Redwood City, CA
+FAU - Davidson, Nancy E.
+AU  - Davidson NE
+AD  - University of Pittsburgh Cancer Institute, Pittsburgh, PA
+FAU - Sledge, George W.
+AU  - Sledge GW
+AD  - Indiana University Medical Center, Indianapolis, IN
+FAU - Winer, Eric P.
+AU  - Winer EP
+AD  - Dana-Farber Cancer Institute, Boston, MA
+FAU - Hudis, Clifford
+AU  - Hudis C
+AD  - Memorial Sloan-Kettering Cancer Center, New York, NY
+FAU - Ingle, James N.
+AU  - Ingle JN
+AD  - Mayo Clinic, Rochester, MN
+FAU - Perez, Edith A.
+AU  - Perez EA
+AD  - Mayo Clinic, Jacksonville, FL
+FAU - Pritchard, Kathleen I.
+AU  - Pritchard KI
+AD  - Sunnybrook Cancer Center, University of Toronto, Toronto, Ontario, Canada
+FAU - Shepherd, Lois
+AU  - Shepherd L
+AD  - National Cancer Institute of Canada Clinical Trials Group, Queen’s University,
+      Kingston, Ontario, Canada
+FAU - Gralow, Julie R.
+AU  - Gralow JR
+AD  - Seattle Cancer Care Alliance, Seattle, WA
+FAU - Yoshizawa, Carl
+AU  - Yoshizawa C
+AD  - Genomic Health, Inc., Redwood City, CA
+FAU - Allred, D. Craig
+AU  - Allred DC
+AD  - Washington University School of Medicine, St. Louis, MO
+FAU - Osborne, C. Kent
+AU  - Osborne CK
+AD  - Baylor College of Medicine Cancer Center, Houston, TX
+FAU - Hayes, Daniel F.
+AU  - Hayes DF
+AD  - University of Michigan Comprehensive Cancer Center, Ann Arbor, MI
+CN  - The Breast Cancer Intergroup of North America
+LA  - eng
+PT  - Journal Article
+DEP - 20091210
+TA  - Lancet Oncol
+JT  - The lancet oncology
+AID - 10.1016/S1470-2045(09)70314-6 [doi]
+MID - NIHMS227230
+SO  - Lancet Oncol. 2010 Jan;11(1):55-65. Epub 2009 Dec 10
+      doi:10.1016/S1470-2045(09)70314-6.
+
+PMC - PMC2653639
+PMID- 19325872
+IS  - 1553-7390 (Print)
+IS  - 1553-7404 (Electronic)
+VI  - 5
+IP  - 3
+DP  - 2009 Mar
+DP  - 2009 Mar
+TI  - DNA Methylation Analysis of Chromosome 21 Gene Promoters at Single Base Pair and 
+      Single Allele Resolution.
+LID - e1000438
+AB  - Differential DNA methylation is an essential epigenetic signal for gene
+      regulation, development, and disease processes. We mapped DNA methylation
+      patterns of 190 gene promoter regions on chromosome 21 using bisulfite conversion
+      and subclone sequencing in five human cell types. A total of 28,626 subclones
+      were sequenced at high accuracy using (long-read) Sanger sequencing resulting in 
+      the measurement of the DNA methylation state of 580427 CpG sites. Our results
+      show that average DNA methylation levels are distributed bimodally with
+      enrichment of highly methylated and unmethylated sequences, both for amplicons
+      and individual subclones, which represent single alleles from individual cells.
+      Within CpG-rich sequences, DNA methylation was found to be anti-correlated with
+      CpG dinucleotide density and GC content, and methylated CpGs are more likely to
+      be flanked by AT-rich sequences. We observed over-representation of CpG sites in 
+      distances of 9, 18, and 27 bps in highly methylated amplicons. However, DNA
+      sequence alone is not sufficient to predict an amplicon's DNA methylation status,
+      since 43% of all amplicons are differentially methylated between the cell types
+      studied here. DNA methylation in promoter regions is strongly correlated with the
+      absence of gene expression and low levels of activating epigenetic marks like
+      H3K4 methylation and H3K9 and K14 acetylation. Utilizing the single base pair and
+      single allele resolution of our data, we found that i) amplicons from different
+      parts of a CpG island frequently differ in their DNA methylation level, ii)
+      methylation levels of individual cells in one tissue are very similar, and iii)
+      methylation patterns follow a relaxed site-specific distribution. Furthermore,
+      iv) we identified three cases of allele-specific DNA methylation on chromosome
+      21. Our data shed new light on the nature of methylation patterns in human cells,
+      the sequence dependence of DNA methylation, and its function as epigenetic signal
+      in gene regulation. Further, we illustrate genotype–epigenotype interactions by
+      showing novel examples of allele-specific methylation.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Zhang, Yingying
+AU  - Zhang Y
+AD  - School of Engineering and Science, Jacobs University Bremen, Bremen, Germany
+FAU - Rohde, Christian
+AU  - Rohde C
+AD  - School of Engineering and Science, Jacobs University Bremen, Bremen, Germany
+FAU - Tierling, Sascha
+AU  - Tierling S
+AD  - Institut für Genetik, FB Biowissenschaften, Universität des Saarlandes,
+      Saarbrücken, Germany
+FAU - Jurkowski, Tomasz P.
+AU  - Jurkowski TP
+AD  - School of Engineering and Science, Jacobs University Bremen, Bremen, Germany
+FAU - Bock, Christoph
+AU  - Bock C
+AD  - Max-Planck-Institut für Informatik, Saarbrücken, Germany
+FAU - Santacruz, Diana
+AU  - Santacruz D
+AD  - Institut für Genetik, FB Biowissenschaften, Universität des Saarlandes,
+      Saarbrücken, Germany
+FAU - Ragozin, Sergey
+AU  - Ragozin S
+AD  - School of Engineering and Science, Jacobs University Bremen, Bremen, Germany
+FAU - Reinhardt, Richard
+AU  - Reinhardt R
+AD  - Max Planck Institute for Molecular Genetics, Berlin-Dahlem, Germany
+FAU - Groth, Marco
+AU  - Groth M
+AD  - Leibniz-Institute for Age Research—Fritz-Lipmann-Institute, Jena, Germany
+FAU - Walter, Jörn
+AU  - Walter J
+AD  - Institut für Genetik, FB Biowissenschaften, Universität des Saarlandes,
+      Saarbrücken, Germany
+FAU - Jeltsch, Albert
+AU  - Jeltsch A
+AD  - School of Engineering and Science, Jacobs University Bremen, Bremen, Germany
+LA  - eng
+PT  - Journal Article
+DEP - 20090327
+PHST- 2008/11/12 [received]
+PHST- 2009/02/25 [accepted]
+PHST- 2009/03/27 [aheadofprint]
+TA  - PLoS Genet
+JT  - PLoS Genetics
+AID - 08-PLGE-RA-1512R2 [pii]
+AID - 10.1371/journal.pgen.1000438 [doi]
+SO  - PLoS Genet. 2009 Mar;5(3):. Epub 2009 Mar 27 doi:10.1371/journal.pgen.1000438.
+
+PMC - PMC2654377
+PMID- 18678838
+IS  - 0732-183X (Print)
+IS  - 1527-7755 (Electronic)
+VI  - 26
+IP  - 25
+DP  - 2008 Sep 1
+TI  - Prognostic Utility of the 21-Gene Assay in Hormone Receptor–Positive Operable
+      Breast Cancer Compared With Classical Clinicopathologic Features.
+PG  - 4063-71
+AB  - Purpose: Adjuvant! is a standardized validated decision aid that projects
+      outcomes in operable breast cancer based on classical clinicopathologic features 
+      and therapy. Genomic classifiers offer the potential to more accurately identify 
+      individuals who benefit from chemotherapy than clinicopathologic features.
+      Patients and Methods: A sample of 465 patients with hormone receptor (HR)
+      –positive breast cancer with zero to three positive axillary nodes who did (n =
+      99) or did not have recurrence after chemohormonal therapy had tumor tissue
+      evaluated using a 21-gene assay. Histologic grade and HR expression were
+      evaluated locally and in a central laboratory. Results: Recurrence Score (RS) was
+      a highly significant predictor of recurrence, including node-negative and
+      node-positive disease (P < .001 for both) and when adjusted for other clinical
+      variables. RS also predicted recurrence more accurately than clinical variables
+      when integrated by an algorithm modeled after Adjuvant! that was adjusted to
+      5-year outcomes. The 5-year recurrence rate was only 5% or less for the estimated
+      46% of patients who have a low RS (< 18). Conclusion: The 21-gene assay was a
+      more accurate predictor of relapse than standard clinical features for individual
+      patients with HR-positive operable breast cancer treated with chemohormonal
+      therapy and provides information that is complementary to features typically used
+      in anatomic staging, such as tumor size and lymph node involvement. The 21-gene
+      assay may be used to select low-risk patients for abbreviated chemotherapy
+      regimens similar to those used in our study or high-risk patients for more
+      aggressive regimens or clinical trials evaluating novel treatments.
+FAU - Goldstein, Lori J.
+AU  - Goldstein LJ
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Gray, Robert
+AU  - Gray R
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Badve, Sunil
+AU  - Badve S
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Childs, Barrett H.
+AU  - Childs BH
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Yoshizawa, Carl
+AU  - Yoshizawa C
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Rowley, Steve
+AU  - Rowley S
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Shak, Steven
+AU  - Shak S
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Baehner, Frederick L.
+AU  - Baehner FL
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Ravdin, Peter M.
+AU  - Ravdin PM
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Davidson, Nancy E.
+AU  - Davidson NE
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Sledge, George W.
+AU  - Sledge GW
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Perez, Edith A.
+AU  - Perez EA
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Shulman, Lawrence N.
+AU  - Shulman LN
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Martino, Silvana
+AU  - Martino S
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+FAU - Sparano, Joseph A.
+AU  - Sparano JA
+AD  - From the Eastern Cooperative Oncology Group, Boston, MA; Sanofi-aventis,
+      Bridgewater, NJ; Genomic Health, Inc, Redwood City, CA; The University of Texas
+      M.D. Anderson Cancer Center, Houston; Southwest Oncology Group, San Antonio, TX; 
+      North Central Cancer Treatment Group, Rochester, MN; Cancer and Leukemia Group B,
+      Chicago, IL
+LA  - eng
+PT  - Journal Article
+PHST- 2007/09/13 [received]
+PHST- 2008/04/10 [accepted]
+TA  - J Clin Oncol
+JT  - Journal of Clinical Oncology
+AID - 44501 [pii]
+AID - 10.1200/JCO.2007.14.4501 [doi]
+SO  - J Clin Oncol. 2008 Sep 1;26(25):4063-71. doi:10.1200/JCO.2007.14.4501.
+
+PMC - PMC1950826
+PMID- 17701894
+IS  - 0002-9297 (Print)
+IS  - 1537-6605 (Electronic)
+VI  - 81
+IP  - 3
+DP  - 2007 Sep
+TI  - Classification of Human Chromosome 21 Gene-Expression Variations in Down
+      Syndrome: Impact on Disease Phenotypes.
+PG  - 475-91
+AB  - Down syndrome caused by chromosome 21 trisomy is the most common genetic cause of
+      mental retardation in humans. Disruption of the phenotype is thought to be the
+      result of gene-dosage imbalance. Variations in chromosome 21 gene expression in
+      Down syndrome were analyzed in lymphoblastoid cells derived from patients and
+      control individuals. Of the 359 genes and predictions displayed on a specifically
+      designed high-content chromosome 21 microarray, one-third were expressed in
+      lymphoblastoid cells. We performed a mixed-model analysis of variance to find
+      genes that are differentially expressed in Down syndrome independent of sex and
+      interindividual variations. In addition, we identified genes with variations
+      between Down syndrome and control samples that were significantly different from 
+      the gene-dosage effect (1.5). Microarray data were validated by quantitative
+      polymerase chain reaction. We found that 29% of the expressed chromosome 21
+      transcripts are overexpressed in Down syndrome and correspond to either genes or 
+      open reading frames. Among these, 22% are increased proportional to the
+      gene-dosage effect, and 7% are amplified. The other 71% of expressed sequences
+      are either compensated (56%, with a large proportion of predicted genes and
+      antisense transcripts) or highly variable among individuals (15%). Thus, most of 
+      the chromosome 21 transcripts are compensated for the gene-dosage effect.
+      Overexpressed genes are likely to be involved in the Down syndrome phenotype, in 
+      contrast to the compensated genes. Highly variable genes could account for
+      phenotypic variations observed in patients. Finally, we show that alternative
+      transcripts belonging to the same gene are similarly regulated in Down syndrome
+      but sense and antisense transcripts are not.
+FAU - Aït Yahya-Graison, E. 
+AU  - Aït Yahya-Graison E
+FAU - Aubert, J. 
+AU  - Aubert J
+FAU - Dauphinot, L. 
+AU  - Dauphinot L
+FAU - Rivals, I. 
+AU  - Rivals I
+FAU - Prieur, M. 
+AU  - Prieur M
+FAU - Golfier, G. 
+AU  - Golfier G
+FAU - Rossier, J. 
+AU  - Rossier J
+FAU - Personnaz, L. 
+AU  - Personnaz L
+FAU - Créau, N. 
+AU  - Créau N
+FAU - Bléhaut, H. 
+AU  - Bléhaut H
+FAU - Robin, S. 
+AU  - Robin S
+FAU - Delabar, J. M. 
+AU  - Delabar J
+FAU - Potier, M.-C. 
+AU  - Potier MC
+LA  - eng
+PT  - Journal Article
+DEP - 20070719
+PHST- 2007/03/13 [received]
+PHST- 2007/05/21 [accepted]
+PHST- 2007/07/19 [aheadofprint]
+TA  - Am J Hum Genet
+JT  - American Journal of Human Genetics
+AID - 44749 [pii]
+SO  - Am J Hum Genet. 2007 Sep;81(3):475-91. Epub 2007 Jul 19
