@@ -22,42 +22,26 @@ length(fronts)  ## 197  ## Good!
 all_titles = xml_find_all(fronts, xpath=".//article-title")  ### <front>, includes title, abstract, etc.
 length(all_titles)  ## 198
 all_titles[[199]]  ### doesn't exist. good.
-for(a_title in all_titles) 
-  print(paste(collapse=" ", as.character(xml_contents(a_title))))
+all_titles[[198]]  ### but why this one?
+
+all_titles = lapply(fronts, function(front) xml_find_all(front, ".//article-title"))
+length(all_titles)  ## 197   Seems to work better!
+
+# for(a_title in all_titles) 
+#   print(paste(collapse=" ", as.character(xml_contents(a_title))))
 get_title = function(a_title) 
   paste(collapse=" ", as.character(xml_contents(a_title)))
 all_title_strings = sapply(all_titles, get_title)
-length(all_title_strings)
+length(all_title_strings)  ### 197
 head(all_title_strings)
-length(all_title_strings)
 tail(all_title_strings)
 which(nchar(all_title_strings) < 10)  ## None.
-
-short_result = all_articles[sample(1:length(all_articles), 8)]
-length(short_result)
-short_title_strings = sapply(xml_find_all(short_result, 
-                                          xpath=".//front/article-meta/title-group/article-title"), get_title)
-numberoftitle = sapply(xml_find_all(short_result, 
-                                          xpath=".//front/article-meta/title-group/article-title"), 
-                       count_titles)
-
 ### counting # of authors
 table(
   sapply(all_articles, function(an_article)
     length(xml_find_all(xml_find_all(an_article, xpath=".//front") , 
                         xpath=".//article-meta/contrib-group/contrib"))
   )
-)
-### counting # of titles
-table(
-  sapply(all_articles, function(an_article)
-    length(xml_find_all(xml_find_all(an_article, xpath=".//front") , 
-                        xpath=".//article-meta/title-group/article-title"))
-  )
-)
-sapply(all_articles, function(an_article)
-  length(xml_find_all(xml_find_all(an_article, xpath=".//front") , 
-                      xpath=".//article-meta/title-group/article-title"))
 )
 
 first_author_nodes = sapply(all_articles, 
@@ -69,4 +53,45 @@ first_author_surnames = sapply(first_author_nodes,
                        function(an_author)
                          as.character(xml_find_all(an_author, 
                                                    xpath=".//name/surname"))
+)
+which(sapply(first_author_surnames, length) == 0)  ### These two have no surnames
+first_author_surnames[sapply(first_author_surnames, length) == 0] = "(unknown)"
+
+# ids = xml_find_one(fronts, './/article-meta/article-id')
+pmcids = xml_find_all(fronts, './/article-meta/article-id[@pub-id-type="pmc"]') 
+length(pmcids)  #197
+pmcids = sapply(sapply(sapply(pmidnodes, xml_contents), as.character), as.numeric)
+length(pmcids)  #197
+which(sapply(pmcids, length) == 0)  ### These four have no pmids
+pmcids[sapply(pmcids, length) == 0] = NA
+pmcids = unlist(pmcids)
+
+pmids = xml_find_all(fronts, './/article-meta/article-id[@pub-id-type="pmid"]') 
+length(pmids) # only 193
+pmidnodes = sapply(fronts, function(front)
+  xml_find_all(front, './/article-meta/article-id[@pub-id-type="pmid"]') ) 
+length(pmidnodes) # now 197. For example#197: xml_nodeset (1)} [1] <article-id pub-id-type="pmid">6324199</article-id>
+pmids = 
+  sapply(sapply(sapply(pmidnodes, xml_contents), as.character), as.numeric)
+which(sapply(pmids, length) == 0)  ### These four have no pmids
+pmids[sapply(pmids, length) == 0] = NA
+table(is.na(pmids))
+pmids = unlist(pmids)
+
+
+write.csv(file = "pmc197.csv", x = 
+            data.frame(pmc=pmcids, pmid=pmids, 
+                         author1=unlist(first_author_surnames), 
+                         title=all_title_strings)
+          )
+
+###### Subsample for more intensive study:
+Narticles = 8
+short_result = all_articles[sample(1:length(all_articles), Narticles)]
+length(short_result)
+short_title_strings = sapply(xml_find_all(short_result, 
+                                          xpath=".//front/article-meta/title-group/article-title"), get_title)
+sapply(all_articles, function(an_article)
+  length(xml_find_all(xml_find_all(an_article, xpath=".//front") , 
+                      xpath=".//article-meta/title-group/article-title"))
 )
