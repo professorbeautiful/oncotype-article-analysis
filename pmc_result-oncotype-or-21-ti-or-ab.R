@@ -9,6 +9,8 @@ result = read_xml("pmc_result-oncotype-or-21-ti-or-ab.xml")
 # contents = contents[contents != "\\n"]
 # length(contents)
 
+#  http://www.w3schools.com/xsl/xpath_syntax.asp
+
 all_articles = xml_children(result)  ### 197, the same as the search.
 first_front = xml_children(xml_children(result)[[1]])[[1]]  ### <front>, includes title, abstract, etc.
 first_title = xml_find_all(first_front, xpath=".//article-title")  ### <front>, includes title, abstract, etc.
