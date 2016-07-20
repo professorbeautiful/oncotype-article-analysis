@@ -80,12 +80,24 @@ pmids[sapply(pmids, length) == 0] = NA
 table(is.na(pmids))
 pmids = unlist(pmids)
 
+dois = xml_find_all(fronts, './/article-meta/article-id[@pub-id-type="doi"]') 
+length(dois) # only 179
+doinodes = sapply(fronts, function(front)
+  xml_find_all(front, './/article-meta/article-id[@pub-id-type="doi"]') ) 
+length(doinodes) # now 197. For example#197: xml_nodeset (1)} [1] <article-id pub-id-type="doi">6324199</article-id>
+dois = 
+  sapply(sapply(doinodes, xml_contents), as.character)
+which(sapply(dois, length) == 0)  ### 18 have no dois
+dois[sapply(dois, length) == 0] = ""
+table(dois=="")
+dois = unlist(dois)
 
-write.csv(file = "pmc197.csv", x = 
-            data.frame(pmc=pmcids, pmid=pmids, 
+pmc197 = data.frame(pmc=pmcids, pmid=pmids, doi=dois,
                          author1=unlist(first_author_surnames), 
                          title=all_title_strings)
-          )
+write.csv(file = "pmc197.csv", x = pmc197)
+pmc_show = function(n)
+  system(paste0('open "http://www.ncbi.nlm.nih.gov/pmc/?term=', pmc197$doi[n], '"') )
 
 ###### Subsample for more intensive study:
 Narticles = 8
