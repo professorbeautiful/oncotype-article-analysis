@@ -53,11 +53,11 @@ first_author_nodes = sapply(all_articles,
 )
 first_author_surnames = sapply(first_author_nodes, 
                        function(an_author)
-                         as.character(xml_find_all(an_author, 
-                                                   xpath=".//name/surname"))
+                         as.character(xml_contents(xml_find_all(an_author, 
+                                                   xpath=".//name/surname")))
 )
-which(sapply(first_author_surnames, length) == 0)  ### These two have no surnames
-first_author_surnames[sapply(first_author_surnames, length) == 0] = "(unknown)"
+whichNoFirstAuthor = which(sapply(first_author_surnames, length) == 0)  ### These two have no surnames
+first_author_surnames[whichNoFirstAuthor] = "(none)"
 
 # ids = xml_find_one(fronts, './/article-meta/article-id')
 pmcidnodes = xml_find_all(fronts, './/article-meta/article-id[@pub-id-type="pmc"]') 
