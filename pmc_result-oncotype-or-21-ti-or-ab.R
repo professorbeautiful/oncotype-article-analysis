@@ -60,13 +60,11 @@ which(sapply(first_author_surnames, length) == 0)  ### These two have no surname
 first_author_surnames[sapply(first_author_surnames, length) == 0] = "(unknown)"
 
 # ids = xml_find_one(fronts, './/article-meta/article-id')
-pmcids = xml_find_all(fronts, './/article-meta/article-id[@pub-id-type="pmc"]') 
+pmcidnodes = xml_find_all(fronts, './/article-meta/article-id[@pub-id-type="pmc"]') 
+length(pmcidnodes)  #197
+pmcids = sapply(sapply(sapply(pmcidnodes, xml_contents), as.character), as.numeric)
+pmcids = as.vector(pmcids)  ### strip out the names
 length(pmcids)  #197
-pmcids = sapply(sapply(sapply(pmidnodes, xml_contents), as.character), as.numeric)
-length(pmcids)  #197
-which(sapply(pmcids, length) == 0)  ### These four have no pmids
-pmcids[sapply(pmcids, length) == 0] = NA
-pmcids = unlist(pmcids)
 
 pmids = xml_find_all(fronts, './/article-meta/article-id[@pub-id-type="pmid"]') 
 length(pmids) # only 193
