@@ -52,3 +52,4 @@ pmc197$abstract = all_abstract_text
 grep("hazard ratio", pmc197$abstract, ignore.case = T)  ### 8 
 all_abstract_text[28]  ### Yup, there it is.
 
+grep("validation", pmc197$abstract, ignore.case = T, value=TRUE)[1]  ###
