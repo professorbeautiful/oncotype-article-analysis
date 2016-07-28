@@ -77,7 +77,10 @@ with(article.df, table(pmid=="", doi=="", notrelevant))
 with(article.df, plot(year, Nauthors))
 with(article.df, plot(jitter(year), Nauthors))
 with(article.df, plot(as.factor(year), Nauthors))
-#########
+
+
+
+#########  PREVIOUS CODE #####
 
 first_front = xml_children(xml_children(result)[[1]])[[1]]  ### <front>, includes title, abstract, etc., gets the first result
 first_title = xml_find_all(first_front, xpath=".//article-title")  ### <front>, includes title, abstract, etc.
