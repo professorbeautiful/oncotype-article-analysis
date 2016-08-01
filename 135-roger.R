@@ -112,6 +112,14 @@ sapply(1:nrow(focusTable), function(row)
        adj = ifelse(row <=3, 1.1, -0.1),
        col="darkgreen")
   )
+
+with(relevant.df, 
+     table(fpb.focus.patient.benefit.from.oncotype,
+           tos.discussion)
+)
+
+
+
 # SUMMARIES ####
 with(relevant.df, plot(year, Nauthors))
 with(relevant.df, plot(jitter(year), Nauthors))
