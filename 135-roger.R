@@ -125,6 +125,18 @@ with(relevant.df, plot(year, Nauthors))
 with(relevant.df, plot(jitter(year), Nauthors))
 with(relevant.df, plot(as.factor(year), Nauthors))
 
+nArticlesByYear<- table(relevant.df$year)
+plot(as.numeric(names(nArticlesByYear)), as.vector(nArticlesByYear),
+     ylim=c(0, max(nArticlesByYear)), type="h")
+text(as.numeric(names(nArticlesByYear)), as.vector(nArticlesByYear),
+      as.vector(nArticlesByYear), adj=1, col="purple")
+
+subset = relevant.df$fpb.focus.patient.benefit.from.oncotype
+nArticlesByYear_fpb <- table(relevant.df$year[subset])
+points(as.numeric(names(nArticlesByYear_fpb)), 
+     as.vector(nArticlesByYear_fpb),
+      lwd=4)
+relevant.df$year[relevant.df$fpb.focus.patient.benefit.from.oncotype]
 #### Assemble DOI query ####
 
 
